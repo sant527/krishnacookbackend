@@ -1,0 +1,26 @@
+200 :: 78 :: Oil for frying :: gound nut oil :: Alu Flower Gravy (Ekadashi)
+200 :: 122 :: Oil :: gound nut oil :: Pav Bhaji Bhaji
+200 :: 174 :: Coconuts :: coconut :: JP Khichadi
+200 :: 250 :: Oil :: gound nut oil :: Panchratna Dry
+200 :: 251 :: Hing :: hing :: Panchratna Dry
+200 :: 252 :: Hari mirchi :: hari mirchi :: Panchratna Dry
+200 :: 253 :: Adrak paste :: adrak :: Panchratna Dry
+200 :: 254 :: Jeera powder :: jeera powder :: Panchratna Dry
+200 :: 255 :: Dhania powder :: dhaniya powder :: Panchratna Dry
+200 :: 256 :: Red chilli powder :: madrasi mirchi powder :: Panchratna Dry
+200 :: 257 :: Haldi :: haldi :: Panchratna Dry
+200 :: 258 :: Kashmiri powder :: kashmiri chilly powder :: Panchratna Dry
+200 :: 259 :: Salt :: salt :: Panchratna Dry
+200 :: 260 :: Black salt :: black salt :: Panchratna Dry
+200 :: 261 :: Everest chat masala :: everest chat masala :: Panchratna Dry
+200 :: 262 :: Lemon juice :: lemon :: Panchratna Dry
+200 :: 306 :: Hari mirchi :: hari mirchi :: Patol White Gravy
+
+1054
+1055
+1233
+1265
+
+
+904
+886

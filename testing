@@ -1,0 +1,370 @@
+  +   
+SELECT ••• FROM "django_session" WHERE ("django_session"."session_key" = '''zw553rybryzir1yur6kfz2ck297m8aht''' AND "django_session"."expire_date" > '''2017-05-26 08:04:19.590887''')
+  
+13.057339555514485%
+  0.67  
+    +   
+SELECT ••• FROM "auth_user" WHERE "auth_user"."id" = '1'
+  
+4.375548676246361%
+  0.23  
+    +   
+SELECT ••• FROM "recipes_recipe" for the queryset = paginator.page(1)
+  
+2.2085662800905603%
+  0.11  
+    +   
+SELECT ••• FROM "tags_tag" ORDER BY "tags_tag"."updated" DESC, "tags_tag"."timestamp" DESC
+  
+2.6244051194381557%
+  0.14  
+    +   
+SELECT ••• FROM "single_measurements_singlemeasurements" WHERE "single_measurements_singlemeasurements"."formtype" = '''ltr''' ORDER BY "single_measurements_singlemeasurements"."updated" DESC, "single_measurements_singlemeasurements"."timestamp" DESC
+  Duplicated 3 times.   
+5.692371667513746%
+  0.29  
+    +   
+SELECT ••• FROM "single_measurements_singlemeasurements" WHERE "single_measurements_singlemeasurements"."formtype" = '''pcs''' ORDER BY "single_measurements_singlemeasurements"."updated" DESC, "single_measurements_singlemeasurements"."timestamp" DESC
+  Duplicated 3 times.   
+4.985445640622834%
+  0.26  
+    +   
+SELECT ••• FROM "single_measurements_singlemeasurements" WHERE "single_measurements_singlemeasurements"."formtype" = '''kg''' ORDER BY "single_measurements_singlemeasurements"."updated" DESC, "single_measurements_singlemeasurements"."timestamp" DESC
+  Duplicated 3 times. 
+
+
+
+*******************************************************************************************
+
+  +   
+SELECT ••• FROM "recipes_recipe" LEFT OUTER JOIN "single_measurements_singlemeasurements" ON ("recipes_recipe"."mass_unit_id" = "single_measurements_singlemeasurements"."id") LEFT OUTER JOIN "single_measurements_singlemeasurements" T3 ON ("recipes_recipe"."volume_unit_id" = T3."id") LEFT OUTER JOIN "single_measurements_singlemeasurements" T4 ON ("recipes_recipe"."pieces_unit_id" = T4."id") ORDER BY "lower_name" ASC LIMIT 10
+  
+15.98207272559257%
+  0.82  
+    +   
+SELECT ••• FROM "recipes_recipeposition" LEFT OUTER JOIN "ingredients_ingredient" ON ("recipes_recipeposition"."ingredient_id" = "ingredients_ingredient"."id") LEFT OUTER JOIN "single_measurements_singlemeasurements" ON ("recipes_recipeposition"."mass_unit_id" = "single_measurements_singlemeasurements"."id") LEFT OUTER JOIN "single_measurements_singlemeasurements" T5 ON ("recipes_recipeposition"."volume_unit_id" = T5."id") LEFT OUTER JOIN "single_measurements_singlemeasurements" T6 ON ("recipes_recipeposition"."pieces_unit_id" = T6."id") WHERE "recipes_recipeposition"."recipe_id" IN ('3', '4', '5', '6', '7', '8', '9', '10', '11', '90') ORDER BY "recipes_recipeposition"."sequence_number" ASC
+  
+23.17146421475766%
+  1.20  
+    +   
+SELECT ••• FROM "recipes_recipeposition" LEFT OUTER JOIN "ingredients_ingredient" ON ("recipes_recipeposition"."ingredient_id" = "ingredients_ingredient"."id") LEFT OUTER JOIN "single_measurements_singlemeasurements" ON ("recipes_recipeposition"."mass_unit_id" = "single_measurements_singlemeasurements"."id") LEFT OUTER JOIN "single_measurements_singlemeasurements" T5 ON ("recipes_recipeposition"."volume_unit_id" = T5."id") LEFT OUTER JOIN "single_measurements_singlemeasurements" T6 ON ("recipes_recipeposition"."pieces_unit_id" = T6."id") WHERE "recipes_recipeposition"."recipe_id" IN ('3', '4', '5', '6', '7', '8', '9', '10', '11', '90') ORDER BY "recipes_recipeposition"."updated" DESC
+  
+20.29293536016264%
+  1.05  
+    +   
+SELECT ••• FROM "tags_tag" INNER JOIN "recipes_recipe_tags" ON ("tags_tag"."id" = "recipes_recipe_tags"."tag_id") WHERE "recipes_recipe_tags"."recipe_id" IN ('3', '4', '5', '6', '7', '8', '9', '10', '11', '90') ORDER BY "tags_tag"."name" ASC
+
+
+
+
+
+
+
+10 queries 696 ms
+
+queryset_list = Recipe.objects.prefetch_related(Prefetch('recipe_positions', queryset=RecipePosition.objects.select_related('ingredient','mass_unit','volume_unit','pieces_unit')),Prefetch('tags',queryset=Tag.objects.order_by('name'))).select_related('mass_unit','volume_unit','pieces_unit').all().extra(select={'lower_name':'lower(recipes_recipe.name)'}).order_by('lower_name')
+
+
+{% with d1= %} {% endwith %}
+
+
+from django.shortcuts import render, get_object_or_404, redirect
+slug = "lunch"
+instance = get_object_or_404(Menu, slug=slug)
+
+
+
+menupositions_instance = instance.menu_positions.all()
+menupositions_instance.select_related().all()
+menupositions_instance.select_related('menurecipe').all()
+
+testingredient = Ingredient.objects.get(name="rice")
+testingredient
+
+
+from django.shortcuts import render, get_object_or_404, redirect
+instance = get_object_or_404(Menu, slug=slug)
+instance
+hare = instance.menu_positions.all()
+hare
+for test in hare:
+	if test.menurecipe.recipe_positions.filter(ingredient=testingredient).exists()
+	quantity_recipe_formenu = test.quantity
+	quantity_recipe_forrecipe = test.menurecipe__quantity
+	test.menurecipe.recipe_positions.filter(ingredient=testingredient)
+
+
+from django.shortcuts import render, get_object_or_404, redirect
+instance = get_object_or_404(Menu, slug=slug)
+instance
+
+testingredient = Ingredient.objects.get(name="rice")
+testingredient
+
+
+test2 = instance.menu_positions.filter(menurecipe__recipe_positions__ingredient=testingredient)
+test2
+
+total_quantity_ingredient_menu = 0
+
+for menuposition in test2:
+	quantity_recipe_formenu = menuposition.quantity
+	#print(quantity_recipe_formenu)
+	quantity_recipe_forrecipe = menuposition.menurecipe.quantity
+	#print(quantity_recipe_forrecipe)
+	quantity_ingredient = menuposition.menurecipe.recipe_positions.filter(ingredient=testingredient).first().quantity
+	#print(quantity_ingredient)
+	total_quantity_ingredient_menu = total_quantity_ingredient_menu + (quantity_recipe_formenu*quantity_ingredient/quantity_recipe_forrecipe)
+	#print("total")
+	#print(total_quantity_ingredient_menu)
+
+#print("total")
+#print(total_quantity_ingredient_menu)
+
+
+test2[0]__menurecipe__recipe_positions.filter(ingredient=testingredient)
+
+
+
+
+
+
+
+from django.shortcuts import render, get_object_or_404, redirect
+instance = get_object_or_404(Menu, slug=slug)
+instance
+hare = instance.menu_positions.all()
+hare
+
+
+if hare[0].menurecipe.recipe_positions.filter(ingredient=testingredient).exists()
+	#print("ok")
+
+
+
+
+test = menupositions_instance.select_related('menurecipe').all()
+
+recipe = instance.menu_positions
+
+recipes = Recipe.objects.filter(menurecipe_positions__menu__in=instance)
+recipes
+
+
+from django.shortcuts import render, get_object_or_404, redirect
+slug = "lunch"
+instance = get_object_or_404(Menu, slug=slug)
+
+recipes = Recipe.objects.filter(menurecipe_positions__menu=instance)
+ingredients = Ingredient.objects.filter(ingredient_recipeposition__recipe__in=recipes).distinct()
+ingredients
+
+
+ingredients2 = Ingredient.objects.filter(ingredient_recipeposition__recipe__in=recipes)
+ingredients2
+
+
+
+
+
+
+
+
+
+Ingredient.objects.filter(recipePosition__recipe__name="sambar)
+
+instance.menu_positions.all()
+
+SELECT "menu_menuposition"."id",
+       "menu_menuposition"."menu_id",
+       "menu_menuposition"."menurecipe_id",
+       "menu_menuposition"."quantity",
+       "menu_menuposition"."literperperson",
+       "menu_menuposition"."updated",
+       "menu_menuposition"."timestamp"
+FROM "menu_menuposition"
+WHERE "menu_menuposition"."menu_id" = 2
+ORDER BY "menu_menuposition"."updated" DESC,
+         "menu_menuposition"."timestamp" DESC
+LIMIT 21 
+
+
+Execution TIME: 0.000252s [Database: default]
+
+SELECT "recipes_recipe"."id",
+       "recipes_recipe"."name",
+       "recipes_recipe"."slug",
+       "recipes_recipe"."quantity",
+       "recipes_recipe"."updated",
+       "recipes_recipe"."timestamp"
+FROM "recipes_recipe"
+WHERE "recipes_recipe"."id" = 10 
+
+
+Execution TIME: 0.000158s [Database: default]
+
+
+SELECT "recipes_recipe"."id",
+     "recipes_recipe"."name",
+     "recipes_recipe"."slug",
+     "recipes_recipe"."quantity",
+     "recipes_recipe"."updated",
+     "recipes_recipe"."timestamp"
+FROM "recipes_recipe" 
+WHERE "recipes_recipe"."id" = 8 
+
+Execution TIME: 0.000116s [Database: default]
+  
+SELECT "recipes_recipe"."id",
+     "recipes_recipe"."name",
+     "recipes_recipe"."slug",
+     "recipes_recipe"."quantity",
+     "recipes_recipe"."updated",
+     "recipes_recipe"."timestamp"
+FROM "recipes_recipe" 
+WHERE "recipes_recipe"."id" = 9 
+
+Execution TIME: 0.000085s [Database: default] <QuerySet [<MenuPosition: lunch sweet rice>, <MenuPosition: lunch rasam>, <MenuPosition: lunch sambar>]>
+
+
+
+menupositions_instance.select_related('menurecipe').all()
+
+
+ SELECT "menu_menuposition"."id",
+       "menu_menuposition"."menu_id",
+       "menu_menuposition"."menurecipe_id",
+       "menu_menuposition"."quantity",
+       "menu_menuposition"."literperperson",
+       "menu_menuposition"."updated",
+       "menu_menuposition"."timestamp",
+       "recipes_recipe"."id",
+       "recipes_recipe"."name",
+       "recipes_recipe"."slug",
+       "recipes_recipe"."quantity",
+       "recipes_recipe"."updated",
+       "recipes_recipe"."timestamp"
+FROM   "menu_menuposition"
+       INNER JOIN "recipes_recipe"
+               ON ( "menu_menuposition"."menurecipe_id" =
+                  "recipes_recipe"."id" )
+WHERE  "menu_menuposition"."menu_id" = 2
+ORDER  BY "menu_menuposition"."updated" DESC,
+          "menu_menuposition"."timestamp" DESC
+LIMIT  21  
+
+
+menupositions_instance.select_related().all()
+
+
+SELECT "menu_menuposition"."id",
+       "menu_menuposition"."menu_id",
+       "menu_menuposition"."menurecipe_id",
+       "menu_menuposition"."quantity",
+       "menu_menuposition"."literperperson",
+       "menu_menuposition"."updated",
+       "menu_menuposition"."timestamp",
+       "menu_menu"."id",
+       "menu_menu"."name",
+       "menu_menu"."slug",
+       "menu_menu"."updated",
+       "menu_menu"."timestamp",
+       "recipes_recipe"."id",
+       "recipes_recipe"."name",
+       "recipes_recipe"."slug",
+       "recipes_recipe"."quantity",
+       "recipes_recipe"."updated",
+       "recipes_recipe"."timestamp"
+FROM   "menu_menuposition"
+       INNER JOIN "menu_menu"
+               ON ( "menu_menuposition"."menu_id" = "menu_menu"."id" )
+       INNER JOIN "recipes_recipe"
+               ON ( "menu_menuposition"."menurecipe_id" =
+                  "recipes_recipe"."id" )
+WHERE  "menu_menuposition"."menu_id" = 2
+ORDER  BY "menu_menuposition"."updated" DESC,
+          "menu_menuposition"."timestamp" DESC
+LIMIT  21  
+
+class MyModelFormSet(BaseModelFormSet):
+    def clean(self):
+        super(MyModelFormSet, self).clean()
+
+        for form in self.forms:
+            name = form.cleaned_data['name'].lower()
+            #form.cleaned_data['name'] = name
+            # update the instance value.
+            #form.instance.name = name
+
+def recipe_list_testing1(request):
+
+  # #ArticleFormSet = formset_factory(ArticleForm)
+  # #ArticleFormSet = formset_factory(ArticleForm, extra=2)
+  # #ArticleFormSet = formset_factory(ArticleForm2, extra=2)
+  # # formset = ArticleFormSet(initial=[
+  # #     {'title': 'Django is now open source',
+  # #      'pub_date': datetime.date.today(),}
+  # # ])
+  # ArticleFormSet = formset_factory(ArticleForm, extra=2, max_num=1)
+  # formset = ArticleFormSet()
+
+  # ArticleFormSet = formset_factory(ArticleForm)
+  # data = {
+  #     'form-TOTAL_FORMS': '5',
+  #     'form-INITIAL_FORMS': '0',
+  #     'form-MAX_NUM_FORMS': '',
+  #   }
+  # formset = ArticleFormSet(data)
+  # print(formset.is_valid())
+
+  # context = {
+  #   "formset":formset
+  # }
+
+
+  #pagination
+  #**********************************
+  # queryset_list = (Recipe.objects
+  #       .prefetch_related(
+  #         Prefetch('recipe_positions', queryset=RecipePosition.objects.select_related('ingredient','mass_unit','volume_unit','pieces_unit').order_by('sequence_number')),
+  #         Prefetch('recipe_positions', queryset=RecipePosition.objects.select_related('ingredient','mass_unit','volume_unit','pieces_unit').order_by('-updated'),to_attr='gauranga'),
+  #         Prefetch('tags',queryset=Tag.objects.order_by('name')))
+  #       .select_related('mass_unit','volume_unit','pieces_unit').all()
+  #       .extra(select={'lower_name':'lower(recipes_recipe.name)'}).order_by('lower_name'))
+
+  # count = 50
+  # paginator = Paginator(queryset_list, count) # Show 25 contacts per page
+  # page_request_var = "page"
+  # page = request.GET.get(page_request_var)
+  # try:
+  #   queryset2 = paginator.page(page)
+  # except PageNotAnInteger:
+  #   queryset2 = paginator.page(1)
+  # except EmptyPage:
+  #   queryset2 = paginator.page(paginator.num_pages)
+
+  # RecipeFormSet = modelformset_factory(Recipe, fields=('name',),max_num=4, extra=2)
+
+  # if request.method == 'POST':
+  #   formset = RecipeFormSet(request.POST, request.FILES)
+  #   if formset.is_valid():
+  #     formset.save()
+  # else:
+  #   formset = RecipeFormSet(queryset=queryset2.object_list)
+  
+  #*************************
+
+
+  RecipePositionFormSet = inlineformset_factory(Recipe, RecipePosition, fields=('name',),can_delete=False,max_num=4, extra=2,)
+
+  recipe = Recipe.objects.get(pk=10)
+  formset = RecipePositionFormSet(instance=recipe)
+
+  #****************************************
+
+  context = {
+    "formset":formset
+  }
+
+  return render(request, "testing1.html", context)
+

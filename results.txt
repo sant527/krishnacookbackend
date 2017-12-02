@@ -1,0 +1,1237 @@
+302 :: 7 :: Varai rice :: varai :: Varai Khichdi
+302 :: 8 :: Bhopla :: bhopla :: Varai Khichdi
+302 :: 9 :: Dudhi :: dudhi :: Varai Khichdi
+302 :: 10 :: Alu :: alu :: Varai Khichdi
+302 :: 11 :: Gajar :: gajar :: Varai Khichdi
+302 :: 12 :: Groundnut Oil :: ground nut oil :: Varai Khichdi
+302 :: 13 :: Jeera :: jeera :: Varai Khichdi
+302 :: 14 :: Hari mirchi split in 2 :: hari mirchi :: Varai Khichdi
+302 :: 15 :: Madrasi Mirchi :: madrasi mirchi powder :: Varai Khichdi
+302 :: 16 :: Kadi Patta :: kadi patta :: Varai Khichdi
+302 :: 17 :: Adrak paste :: adrak :: Varai Khichdi
+302 :: 18 :: Kashmiri Mirchi Powder :: kashmiri chilly powder :: Varai Khichdi
+302 :: 19 :: Tomato :: tomato :: Varai Khichdi
+302 :: 20 :: Ghee :: ghee :: Varai Khichdi
+302 :: 21 :: Dhania patta :: dhaniya patta :: Varai Khichdi
+302 :: 22 :: Jeera pwd :: jeera powder :: Varai Khichdi
+
+
+302 :: 25 :: Salli :: salli :: Potato Salli
+302 :: 26 :: Black Pepper Pwd :: black pepper :: Potato Salli
+302 :: 27 :: Black Salt :: black salt :: Potato Salli
+302 :: 28 :: Salt :: salt :: Potato Salli
+302 :: 29 :: Oil for frying  :: gound nut oil :: Potato Salli
+
+302 :: 32 :: Varai rice :: varai :: Varai Pulav2
+302 :: 33 :: Groundnut oil for tadka :: ground nut oil :: Varai Pulav2
+302 :: 34 :: Tejpatta :: tej patta :: Varai Pulav2
+302 :: 35 :: Jeera :: jeera :: Varai Pulav2
+302 :: 36 :: kadi patta :: kadi patta :: Varai Pulav2
+302 :: 37 :: Gajar :: gajar :: Varai Pulav2
+302 :: 38 :: Cabbage :: cabbage :: Varai Pulav2
+302 :: 39 :: Capsicum :: capsicum :: Varai Pulav2
+302 :: 40 :: Salt :: salt :: Varai Pulav2
+302 :: 41 :: Everest Pulav Masala :: everest pulav masala :: Varai Pulav2
+302 :: 42 :: Hot water :: hot water :: Varai Pulav2
+302 :: 43 :: sugar :: sugar :: Varai Pulav2
+302 :: 46 :: Tomato :: tomato :: Ekadasi soup
+302 :: 47 :: Bhopla :: bhopla :: Ekadasi soup
+302 :: 48 :: Alu :: alu :: Ekadasi soup
+302 :: 49 :: Gajar :: gajar :: Ekadasi soup
+Ekadasi soup-form not valid
+200 :: 50 :: Boiled water :: water :: Ekadasi soup
+302 :: 51 :: Boiled vegetables puree :: boiled vegetables puree :: Ekadasi soup
+302 :: 52 :: EVOO / butter :: EVOO :: Ekadasi soup
+302 :: 53 :: EVOO on Top :: EVOO :: Ekadasi soup
+302 :: 54 :: Black Pepper pwd :: black pepper :: Ekadasi soup
+302 :: 55 :: Basil Leaves :: basil leaves :: Ekadasi soup
+302 :: 56 :: Brown sugar (bluebird) :: brown sugar :: Ekadasi soup
+302 :: 57 :: Salt :: salt :: Ekadasi soup
+302 :: 58 :: Lemon Juice :: lemon :: Ekadasi soup
+302 :: 62 :: Alu :: alu :: Alu Flower Gravy (Ekadashi)
+302 :: 63 :: Flower :: flower :: Alu Flower Gravy (Ekadashi)
+200 :: 64 :: Flower :: flower :: Alu Flower Gravy (Ekadashi)
+302 :: 65 :: Tomato puree :: tomato :: Alu Flower Gravy (Ekadashi)
+302 :: 66 :: Ghee :: ghee :: Alu Flower Gravy (Ekadashi)
+302 :: 67 :: Jeera :: jeera :: Alu Flower Gravy (Ekadashi)
+302 :: 68 :: Hari Mirchi split in 2 :: hari mirchi :: Alu Flower Gravy (Ekadashi)
+302 :: 69 :: Adrak paste :: adrak :: Alu Flower Gravy (Ekadashi)
+302 :: 70 :: Jeera pwd :: jeera powder :: Alu Flower Gravy (Ekadashi)
+302 :: 71 :: Dhania Pwd :: dhaniya powder :: Alu Flower Gravy (Ekadashi)
+302 :: 72 :: Salt  :: salt :: Alu Flower Gravy (Ekadashi)
+302 :: 73 :: Everest pulao masala :: everest pulav masala :: Alu Flower Gravy (Ekadashi)
+302 :: 74 :: Kashmiri Mirchi Powder :: kashmiri chilly powder :: Alu Flower Gravy (Ekadashi)
+302 :: 75 :: Kaju paste :: kaju :: Alu Flower Gravy (Ekadashi)
+302 :: 76 :: Brown sugar (bluebird) :: brown sugar :: Alu Flower Gravy (Ekadashi)
+302 :: 77 :: Dhania Patta :: dhaniya patta :: Alu Flower Gravy (Ekadashi)
+Alu Flower Gravy (Ekadashi)-form not valid
+200 :: 78 :: Oil for frying :: gound nut oil :: Alu Flower Gravy (Ekadashi)
+302 :: 82 :: Boiled singdana :: singdana :: Kakdi singdana salad
+302 :: 83 :: Kakdi chopped :: kakdi :: Kakdi singdana salad
+302 :: 84 :: tomato chopped :: tomato :: Kakdi singdana salad
+302 :: 85 :: Hari mirchi fine chopped :: hari mirchi :: Kakdi singdana salad
+302 :: 86 :: Salt :: salt :: Kakdi singdana salad
+302 :: 87 :: Dhania patta :: dhaniya patta :: Kakdi singdana salad
+302 :: 88 :: Rocket leaves :: rocket leaves :: Kakdi singdana salad
+302 :: 89 :: EVOO :: evoo :: Kakdi singdana salad
+Kakdi singdana salad-form not valid
+200 :: 90 :: Boiled alu :: alu :: Kakdi singdana salad
+302 :: 93 :: Coal for smoke flavor :: coal :: Kakdi singdana salad
+302 :: 95 :: oil for frying :: gound nut oil :: Potato chips
+302 :: 96 :: Potato Chips :: potato chips :: Potato chips
+302 :: 97 :: black pepper powder :: black pepper :: Potato chips
+302 :: 98 :: black salt powder :: black salt :: Potato chips
+302 :: 99 :: salt :: salt :: Potato chips
+302 :: 103 :: Alu  :: alu :: Spicy Potato
+302 :: 104 :: Cabbage :: cabbage :: Spicy Potato
+302 :: 105 :: Capsicum :: capsicum :: Spicy Potato
+302 :: 106 :: Coconuts :: coconut :: Spicy Potato
+302 :: 107 :: Imli :: imli :: Spicy Potato
+302 :: 108 :: Kashmiri mirchi :: kashmiri chilly powder :: Spicy Potato
+302 :: 109 :: Madrasi mirchi :: madrasi mirchi powder :: Spicy Potato
+302 :: 110 :: Akha dhaniya :: akha dhaniya :: Spicy Potato
+302 :: 111 :: Salt :: salt :: Spicy Potato
+302 :: 112 :: Grountnut Oil :: ground nut oil :: Spicy Potato
+302 :: 113 :: Hot water :: hot water :: Spicy Potato
+302 :: 116 :: Alu :: alu :: Pav Bhaji Bhaji
+302 :: 117 :: Tomato :: tomato :: Pav Bhaji Bhaji
+302 :: 118 :: Safed watana or :: safed watana :: Pav Bhaji Bhaji
+302 :: 119 :: Green peas :: green peas :: Pav Bhaji Bhaji
+302 :: 120 :: Flower  :: flower :: Pav Bhaji Bhaji
+302 :: 121 :: Capsicum :: capsicum :: Pav Bhaji Bhaji
+Pav Bhaji Bhaji-form not valid
+200 :: 122 :: Oil :: gound nut oil :: Pav Bhaji Bhaji
+302 :: 123 :: Adrak paste :: adrak :: Pav Bhaji Bhaji
+302 :: 124 :: Kashmiri powder :: kashmiri chilly powder :: Pav Bhaji Bhaji
+302 :: 125 :: Badshah pav bhaji masala :: badshah pav bhaji masala :: Pav Bhaji Bhaji
+302 :: 126 :: Salt :: salt :: Pav Bhaji Bhaji
+302 :: 127 :: Hot water :: hot water :: Pav Bhaji Bhaji
+302 :: 128 :: Butter :: butter :: Pav Bhaji Bhaji
+302 :: 129 :: Lemon juice :: lemon :: Pav Bhaji Bhaji
+
+
+
+302 :: 133 :: Jackfruit  :: jackfruit :: Jackfruit gravy
+302 :: 134 :: Tomato :: tomato :: Jackfruit gravy
+302 :: 135 :: Kaju paste :: kaju :: Jackfruit gravy
+302 :: 136 :: Oil :: gound nut oil :: Jackfruit gravy
+302 :: 137 :: Jeera :: jeera :: Jackfruit gravy
+302 :: 138 :: Hing :: hing :: Jackfruit gravy
+302 :: 139 :: Green chilly :: hari mirchi :: Jackfruit gravy
+302 :: 140 :: Adrak paste :: adrak :: Jackfruit gravy
+302 :: 141 :: Haldi :: haldi :: Jackfruit gravy
+302 :: 142 :: Kashmiri powder :: kashmiri chilly powder :: Jackfruit gravy
+302 :: 143 :: Everest pulao masala :: everest pulav masala :: Jackfruit gravy
+302 :: 144 :: Hot water :: hot water :: Jackfruit gravy
+302 :: 145 :: Salt :: salt :: Jackfruit gravy
+302 :: 148 :: Safed watana :: safed watana :: Watana Usal
+302 :: 149 :: Tomato :: tomato :: Watana Usal
+302 :: 150 :: Haldi :: haldi :: Watana Usal
+302 :: 151 :: Dhania powder :: dhaniya powder :: Watana Usal
+302 :: 152 :: Jeera powder :: jeera powder :: Watana Usal
+302 :: 153 :: Hing :: hing :: Watana Usal
+302 :: 154 :: Tejpatta :: tej patta :: Watana Usal
+302 :: 155 :: Salt :: salt :: Watana Usal
+302 :: 156 :: Oil :: gound nut oil :: Watana Usal
+302 :: 157 :: Rai :: rai :: Watana Usal
+302 :: 158 :: Jeera :: jeera :: Watana Usal
+302 :: 159 :: Adrak paste :: adrak :: Watana Usal
+302 :: 160 :: Kashmiri powder :: kashmiri chilly powder :: Watana Usal
+302 :: 161 :: Sugar :: sugar :: Watana Usal
+302 :: 162 :: Coconuts :: coconut :: Watana Usal
+302 :: 163 :: Kubal usal masala :: kubal usal masala :: Watana Usal
+302 :: 164 :: Goda masala :: goda masala :: Watana Usal
+302 :: 165 :: Lemon juice :: lemon :: Watana Usal
+302 :: 168 :: Rice :: rice :: JP Khichadi
+302 :: 169 :: Chilka moong dal :: chilka moong dal :: JP Khichadi
+302 :: 170 :: Chana dal :: chana dal :: JP Khichadi
+302 :: 171 :: Ghee :: ghee :: JP Khichadi
+302 :: 172 :: Adrak paste :: adrak :: JP Khichadi
+302 :: 173 :: Water :: water :: JP Khichadi
+JP Khichadi-form not valid
+200 :: 174 :: Coconuts :: coconut :: JP Khichadi
+302 :: 175 :: Sugar :: sugar :: JP Khichadi
+302 :: 176 :: Kismis :: kismis :: JP Khichadi
+302 :: 177 :: Jeera :: jeera :: JP Khichadi
+302 :: 178 :: Salt :: salt :: JP Khichadi
+302 :: 180 :: Dahi :: dahi :: Dahi Bhindi
+302 :: 181 :: Salt :: salt :: Dahi Bhindi
+302 :: 182 :: Sugar :: sugar :: Dahi Bhindi
+302 :: 183 :: Roasted chilly powder :: madrasi mirchi akkaha :: Dahi Bhindi
+302 :: 184 :: Roasted jeera powder :: jeera :: Dahi Bhindi
+302 :: 185 :: Soonth :: soonth :: Dahi Bhindi
+Dahi Bhindi-form not valid
+200 :: 186 :: Chaunce :: chaunce :: Dahi Bhindi
+302 :: 187 :: Rai tel :: rai oil :: Dahi Bhindi
+302 :: 188 :: Rai :: rai :: Dahi Bhindi
+302 :: 189 :: Hing :: hing :: Dahi Bhindi
+302 :: 190 :: Kadipatta :: kadi patta :: Dahi Bhindi
+302 :: 191 :: Adrak paste :: adrak :: Dahi Bhindi
+302 :: 192 :: Bhindi :: bhindi :: Dahi Bhindi
+302 :: 195 :: Dahi :: dahi :: Dahi Baingan
+302 :: 196 :: Salt :: salt :: Dahi Baingan
+302 :: 197 :: Sugar :: sugar :: Dahi Baingan
+302 :: 198 :: Roasted chilly powder :: madrasi mirchi akkaha :: Dahi Baingan
+302 :: 199 :: Roasted jeera powder :: jeera :: Dahi Baingan
+302 :: 200 :: Soonth :: soonth :: Dahi Baingan
+Dahi Baingan-form not valid
+200 :: 201 :: Chaunce :: chaunce :: Dahi Baingan
+302 :: 202 :: Rai tel :: rai oil :: Dahi Baingan
+302 :: 203 :: Rai :: rai :: Dahi Baingan
+302 :: 204 :: Hing :: hing :: Dahi Baingan
+302 :: 205 :: Kadipatta :: kadi patta :: Dahi Baingan
+302 :: 206 :: Adrak paste :: adrak :: Dahi Baingan
+302 :: 207 :: Bharta baingan :: baingan :: Dahi Baingan
+302 :: 210 :: Dahi :: dahi :: Dahi Patol
+302 :: 211 :: Salt :: salt :: Dahi Patol
+302 :: 212 :: Sugar :: sugar :: Dahi Patol
+302 :: 213 :: Roasted chilly powder :: madrasi mirchi akkaha :: Dahi Patol
+302 :: 214 :: Roasted jeera powder :: jeera :: Dahi Patol
+302 :: 215 :: Soonth :: soonth :: Dahi Patol
+Dahi Patol-form not valid
+200 :: 216 :: Chaunce :: chaunce :: Dahi Patol
+302 :: 217 :: Rai tel :: rai oil :: Dahi Patol
+302 :: 218 :: Rai :: rai :: Dahi Patol
+302 :: 219 :: Hing :: hing :: Dahi Patol
+302 :: 220 :: Kadipatta :: kadi patta :: Dahi Patol
+302 :: 221 :: Adrak paste :: adrak :: Dahi Patol
+302 :: 222 :: Patol :: patol :: Dahi Patol
+302 :: 225 :: Kala chana :: kala chana :: Alu Kala Chana Chat
+302 :: 226 :: Cabbage :: cabbage :: Alu Kala Chana Chat
+302 :: 227 :: Alu :: alu :: Alu Kala Chana Chat
+302 :: 228 :: Tomato :: tomato :: Alu Kala Chana Chat
+302 :: 229 :: Oil :: gound nut oil :: Alu Kala Chana Chat
+302 :: 230 :: Hing :: hing :: Alu Kala Chana Chat
+302 :: 231 :: Hari mirchi :: hari mirchi :: Alu Kala Chana Chat
+302 :: 232 :: Adrak paste :: adrak :: Alu Kala Chana Chat
+302 :: 233 :: Jeera powder :: jeera powder :: Alu Kala Chana Chat
+302 :: 234 :: Dhania powder :: dhaniya powder :: Alu Kala Chana Chat
+302 :: 235 :: Red chilli powder :: madrasi mirchi powder :: Alu Kala Chana Chat
+302 :: 236 :: Everest chole masala :: everest chole masala :: Alu Kala Chana Chat
+302 :: 237 :: Haldi :: haldi :: Alu Kala Chana Chat
+302 :: 238 :: Kashmiri powder :: kashmiri chilly powder :: Alu Kala Chana Chat
+302 :: 239 :: Salt :: salt :: Alu Kala Chana Chat
+302 :: 240 :: Black salt :: black salt :: Alu Kala Chana Chat
+302 :: 241 :: Everest chat masala :: everest chat masala :: Alu Kala Chana Chat
+302 :: 242 :: Lemon juice :: lemon :: Alu Kala Chana Chat
+302 :: 245 :: Akha moong :: akha moong :: Panchratna Dry
+302 :: 246 :: Safed watana :: safed watana :: Panchratna Dry
+302 :: 247 :: Kala chana :: kala chana :: Panchratna Dry
+302 :: 248 :: Alu :: alu :: Panchratna Dry
+302 :: 249 :: Tomato :: tomato :: Panchratna Dry
+Panchratna Dry-form not valid
+200 :: 250 :: Oil :: gound nut oil :: Panchratna Dry
+Panchratna Dry-form not valid
+200 :: 251 :: Hing :: hing :: Panchratna Dry
+Panchratna Dry-form not valid
+200 :: 252 :: Hari mirchi :: hari mirchi :: Panchratna Dry
+Panchratna Dry-form not valid
+200 :: 253 :: Adrak paste :: adrak :: Panchratna Dry
+Panchratna Dry-form not valid
+200 :: 254 :: Jeera powder :: jeera powder :: Panchratna Dry
+Panchratna Dry-form not valid
+200 :: 255 :: Dhania powder :: dhaniya powder :: Panchratna Dry
+Panchratna Dry-form not valid
+200 :: 256 :: Red chilli powder :: madrasi mirchi powder :: Panchratna Dry
+Panchratna Dry-form not valid
+200 :: 257 :: Haldi :: haldi :: Panchratna Dry
+Panchratna Dry-form not valid
+200 :: 258 :: Kashmiri powder :: kashmiri chilly powder :: Panchratna Dry
+Panchratna Dry-form not valid
+200 :: 259 :: Salt :: salt :: Panchratna Dry
+Panchratna Dry-form not valid
+200 :: 260 :: Black salt :: black salt :: Panchratna Dry
+Panchratna Dry-form not valid
+200 :: 261 :: Everest chat masala :: everest chat masala :: Panchratna Dry
+Panchratna Dry-form not valid
+200 :: 262 :: Lemon juice :: lemon :: Panchratna Dry
+302 :: 265 :: Bhopla :: bhopla :: Bhopla KM
+302 :: 266 :: Rai tel :: rai oil :: Bhopla KM
+302 :: 267 :: Methi :: methi :: Bhopla KM
+302 :: 268 :: Jeera :: jeera :: Bhopla KM
+302 :: 269 :: Badisaunf :: badi sauf :: Bhopla KM
+302 :: 270 :: Haldi :: haldi :: Bhopla KM
+302 :: 271 :: Dhania powder :: dhaniya powder :: Bhopla KM
+302 :: 272 :: Red chilli powder :: madrasi mirchi powder :: Bhopla KM
+302 :: 273 :: Damodar P garam masala :: damodar p garam masala :: Bhopla KM
+302 :: 274 :: Everest pulao masala :: everest pulav masala :: Bhopla KM
+302 :: 275 :: Sugar :: sugar :: Bhopla KM
+302 :: 276 :: Amchur :: amchur :: Bhopla KM
+302 :: 277 :: Salt :: salt :: Bhopla KM
+302 :: 280 :: Alu :: alu :: Dosa Bhaji Dry
+302 :: 281 :: Cabbage :: cabbage :: Dosa Bhaji Dry
+302 :: 282 :: Capsicum :: capsicum :: Dosa Bhaji Dry
+302 :: 283 :: Tomato :: tomato :: Dosa Bhaji Dry
+302 :: 284 :: Green peas :: green peas :: Dosa Bhaji Dry
+302 :: 285 :: Oil :: gound nut oil :: Dosa Bhaji Dry
+302 :: 286 :: Rai :: rai :: Dosa Bhaji Dry
+302 :: 287 :: Udad dal :: urad dal :: Dosa Bhaji Dry
+302 :: 288 :: Chana dal :: chana dal :: Dosa Bhaji Dry
+302 :: 289 :: Hing :: hing :: Dosa Bhaji Dry
+302 :: 290 :: Hari mirchi :: hari mirchi :: Dosa Bhaji Dry
+302 :: 291 :: Kadipatta :: kadi patta :: Dosa Bhaji Dry
+302 :: 292 :: Haldi :: haldi :: Dosa Bhaji Dry
+302 :: 293 :: MTR Rasam powder :: mtr rasam masala :: Dosa Bhaji Dry
+302 :: 294 :: Salt :: salt :: Dosa Bhaji Dry
+302 :: 297 :: Chole :: chole :: Chole Krsna Balaram
+302 :: 298 :: Tomato :: tomato :: Chole Krsna Balaram
+302 :: 299 :: Hansraj chole masala :: hansraj chole masala :: Chole Krsna Balaram
+302 :: 300 :: Salt :: salt :: Chole Krsna Balaram
+302 :: 301 :: Amla churna (optional) :: amla churna :: Chole Krsna Balaram
+302 :: 304 :: Rai tel :: rai oil :: Patol White Gravy
+302 :: 305 :: Jeera :: jeera :: Patol White Gravy
+Patol White Gravy-form not valid
+200 :: 306 :: Hari mirchi :: hari mirchi :: Patol White Gravy
+302 :: 307 :: Haldi :: haldi :: Patol White Gravy
+302 :: 308 :: Kaju :: kaju :: Patol White Gravy
+302 :: 309 :: Posto :: posto :: Patol White Gravy
+302 :: 310 :: Everest pulao masala :: everest pulav masala :: Patol White Gravy
+302 :: 311 :: Sugar :: sugar :: Patol White Gravy
+302 :: 312 :: Patol :: patol :: Patol White Gravy
+302 :: 313 :: Hot water :: hot water :: Patol White Gravy
+302 :: 314 :: Tejpatta :: tej patta :: Patol White Gravy
+302 :: 315 :: Salt :: salt :: Patol White Gravy
+302 :: 318 :: Alu :: alu :: Alu Jeera
+302 :: 319 :: Oil :: gound nut oil :: Alu Jeera
+302 :: 320 :: Jeera :: jeera :: Alu Jeera
+302 :: 321 :: Hing :: hing :: Alu Jeera
+302 :: 322 :: Hari mirchi :: hari mirchi :: Alu Jeera
+302 :: 323 :: Kashmiri powder :: kashmiri chilly powder :: Alu Jeera
+302 :: 324 :: Red chilli powder :: madrasi mirchi powder :: Alu Jeera
+302 :: 325 :: Salt :: salt :: Alu Jeera
+302 :: 326 :: Dhania powder :: dhaniya powder :: Alu Jeera
+302 :: 327 :: Roasted jeera powder :: jeera :: Alu Jeera
+302 :: 328 :: Lemon juice :: lemon :: Alu Jeera
+302 :: 329 :: Dhania patta :: dhaniya patta :: Alu Jeera
+
+
+302 :: 332 :: Brokoli  :: broccoli :: Brokoli Sautee
+200 :: 333 :: Brokoli  :: broccoli :: Brokoli Sautee
+302 :: 334 :: EVOO :: evoo :: Brokoli Sautee
+302 :: 335 :: Black pepper powder :: black pepper :: Brokoli Sautee
+302 :: 336 :: Hing :: hing :: Brokoli Sautee
+302 :: 337 :: Salt :: salt :: Brokoli Sautee
+302 :: 338 :: Black salt :: black salt :: Brokoli Sautee
+302 :: 339 :: Basil leaves :: basil leaves :: Brokoli Sautee
+302 :: 342 :: Karela :: karela :: Kerela Round
+200 :: 343 :: Karela :: karela :: Kerela Round
+302 :: 344 :: Oil :: gound nut oil :: Kerela Round
+302 :: 345 :: Jeera :: jeera :: Kerela Round
+302 :: 346 :: Hari mirchi :: hari mirchi :: Kerela Round
+302 :: 347 :: Haldi :: haldi :: Kerela Round
+302 :: 348 :: Dhania powder :: dhaniya powder :: Kerela Round
+302 :: 349 :: Salt :: salt :: Kerela Round
+302 :: 350 :: Gud :: gud :: Kerela Round
+302 :: 351 :: Amchur :: amchur :: Kerela Round
+Red Sak Badi-form not valid
+200 :: 354 :: Red sak :: red sak :: Red Sak Badi
+302 :: 355 :: Red sak :: red sak :: Red Sak Badi
+302 :: 356 :: Rai tel :: rai oil :: Red Sak Badi
+302 :: 357 :: Kalo jeera :: kalo jeera :: Red Sak Badi
+302 :: 358 :: Tejpatta :: tej patta :: Red Sak Badi
+302 :: 359 :: Adrak paste :: adrak :: Red Sak Badi
+302 :: 360 :: Hari mirchi :: hari mirchi :: Red Sak Badi
+302 :: 361 :: Salt :: salt :: Red Sak Badi
+302 :: 362 :: Haldi :: haldi :: Red Sak Badi
+302 :: 363 :: Badi :: Moong badi :: Red Sak Badi
+302 :: 368 :: Varai rice :: varai :: Varai Pulav
+302 :: 369 :: Groundnut oil for tadka :: ground nut oil :: Varai Pulav
+302 :: 370 :: Tejpatta :: tej patta :: Varai Pulav
+302 :: 371 :: Jeera :: jeera :: Varai Pulav
+302 :: 372 :: kadi patta :: kadi patta :: Varai Pulav
+302 :: 373 :: Gajar :: gajar :: Varai Pulav
+302 :: 375 :: Cabbage :: cabbage :: Varai Pulav
+302 :: 377 :: Capsicum :: capsicum :: Varai Pulav
+302 :: 379 :: Flower :: flower :: Varai Pulav
+302 :: 380 :: Salt :: salt :: Varai Pulav
+302 :: 381 :: Everest Pulav Masala :: everest pulav masala :: Varai Pulav
+302 :: 382 :: Hot water :: hot water :: Varai Pulav
+302 :: 383 :: sugar :: sugar :: Varai Pulav
+302 :: 387 :: Sweet corn (boiled) :: sweet corn :: Sweet Corn Italia
+302 :: 388 :: Red capsicum  :: red capsicum :: Sweet Corn Italia
+302 :: 389 :: Green capsicum :: green capsicum :: Sweet Corn Italia
+302 :: 391 :: Coconut (grated, medium jaali) :: coconut :: Sweet Corn Italia
+302 :: 392 :: Boiled milk :: milk :: Sweet Corn Italia
+302 :: 393 :: Boiled Kaju paste :: kaju :: Sweet Corn Italia
+302 :: 394 :: Butter :: butter :: Sweet Corn Italia
+302 :: 395 :: Hing :: hing :: Sweet Corn Italia
+302 :: 396 :: Hari mirchi split in 2 :: hari mirchi :: Sweet Corn Italia
+302 :: 397 :: Black pepper pwd :: black pepper :: Sweet Corn Italia
+302 :: 398 :: Brown sugar (bluebird) or :: brown sugar :: Sweet Corn Italia
+302 :: 399 :: Brown sugar (bluebird) :: brown sugar :: Sweet Corn Italia
+302 :: 400 :: Basil leaves :: basil leaves :: Sweet Corn Italia
+302 :: 401 :: Boiled corn water :: corn :: Sweet Corn Italia
+302 :: 402 :: Corn flour :: corn flour :: Sweet Corn Italia
+302 :: 403 :: EVOO :: evoo :: Sweet Corn Italia
+302 :: 404 :: Salt :: salt :: Sweet Corn Italia
+302 :: 409 :: Lettuce (cut big size) :: lettuce :: Italian Salad
+302 :: 411 :: Gajar (grated) :: gajar :: Italian Salad
+302 :: 413 :: Cherry tomato (cut half) :: cherry tomato :: Italian Salad
+302 :: 415 :: Roasted Almonds (cut 1-4) :: almonds :: Italian Salad
+302 :: 416 :: EVOO :: evoo :: Italian Salad
+302 :: 417 :: Lemon juice :: lemon :: Italian Salad
+302 :: 420 :: salt for roasting almonds :: salt :: Italian Salad
+302 :: 424 :: Rice :: rice :: Jeera Rice
+302 :: 425 :: Ghee  :: ghee :: Jeera Rice
+302 :: 426 :: Jeera :: jeera :: Jeera Rice
+302 :: 427 :: Kaju half :: kaju half :: Jeera Rice
+302 :: 428 :: Hari Mirchi split in 2 :: hari mirchi :: Jeera Rice
+302 :: 429 :: Dhania Patta :: dhaniya patta :: Jeera Rice
+302 :: 430 :: Salt :: salt :: Jeera Rice
+302 :: 434 :: Matar ki dal :: matar ki dal :: Matar Ki Dal
+302 :: 435 :: Ghee :: ghee :: Matar Ki Dal
+302 :: 436 :: Jeera :: jeera :: Matar Ki Dal
+302 :: 437 :: Hari mirchi split in 2 :: hari mirchi :: Matar Ki Dal
+302 :: 438 :: Adrak paste :: adrak :: Matar Ki Dal
+302 :: 439 :: Tomato :: tomato :: Matar Ki Dal
+302 :: 440 :: Red chilli pwd :: madrasi mirchi powder :: Matar Ki Dal
+302 :: 441 :: Haldi :: haldi :: Matar Ki Dal
+302 :: 442 :: Salt  :: salt :: Matar Ki Dal
+302 :: 443 :: Tadka :: tadka :: Matar Ki Dal
+200 :: 444 :: Ghee  :: ghee :: Matar Ki Dal
+302 :: 445 :: Rai :: rai :: Matar Ki Dal
+302 :: 446 :: Madrasi Mirchi :: madrasi mirchi powder :: Matar Ki Dal
+302 :: 447 :: Hing  :: hing :: Matar Ki Dal
+302 :: 448 :: Kadi patta :: kadi patta :: Matar Ki Dal
+302 :: 449 :: Dhania Patta  :: dhaniya patta :: Matar Ki Dal
+302 :: 450 :: Jeera pwd :: jeera powder :: Matar Ki Dal
+302 :: 451 :: Dhania pwd :: dhaniya powder :: Matar Ki Dal
+302 :: 452 :: Everest Pulav masala :: everest pulav masala :: Matar Ki Dal
+302 :: 453 :: Lemon juice :: lemon :: Matar Ki Dal
+302 :: 458 :: Beans :: beans :: Beans Tahini Sauce
+302 :: 461 :: Basil leaves :: basil leaves :: Beans Tahini Sauce
+302 :: 462 :: Black Pepper pwd :: black pepper :: Beans Tahini Sauce
+302 :: 463 :: Black Salt :: black salt :: Beans Tahini Sauce
+302 :: 464 :: Butter (Makhan)/ EVOO :: butter :: Beans Tahini Sauce
+302 :: 465 :: Hing (Asafoetida) :: hing :: Beans Tahini Sauce
+302 :: 466 :: Salt (Namak) :: salt :: Beans Tahini Sauce
+302 :: 467 :: Tomato :: tomato :: Beans Tahini Sauce
+302 :: 468 :: Tahini paste :: tahini paste :: Beans Tahini Sauce
+302 :: 473 :: EVOO :: evoo :: Tahini paste
+302 :: 474 :: White Till ( Dry Roast light) :: white til :: Tahini paste
+302 :: 475 :: Hing  :: hing :: Tahini paste
+302 :: 476 :: Black pepper   :: black pepper :: Tahini paste
+302 :: 477 :: Sugar  :: sugar :: Tahini paste
+302 :: 478 :: Water  :: water :: Tahini paste
+302 :: 482 :: Besan :: besan :: Boondi raita
+302 :: 483 :: Boondi :: boondi :: Boondi raita
+302 :: 484 :: Roasted jeera powder :: jeera :: Boondi raita
+302 :: 485 :: Roasted mirchi powder :: madrasi mirchi akkaha :: Boondi raita
+302 :: 486 :: Salt :: salt :: Boondi raita
+302 :: 487 :: Sugar :: sugar :: Boondi raita
+302 :: 488 :: Pudina :: pudina :: Boondi raita
+302 :: 489 :: Dhaniya patta :: dhaniya patta :: Boondi raita
+302 :: 490 :: Dahi :: dahi :: Boondi raita
+302 :: 491 :: Water :: water :: Boondi raita
+302 :: 497 :: Rice (small fine grain) :: rice :: Dahi  Rice
+302 :: 498 :: Dahi :: dahi :: Dahi  Rice
+302 :: 499 :: Water :: water :: Dahi  Rice
+Dahi  Rice-form not valid
+200 :: 500 :: Tadka :: tadka :: Dahi  Rice
+302 :: 501 :: Groundnut Oil / Til Oil :: ground nut oil :: Dahi  Rice
+302 :: 502 :: Rai  :: rai :: Dahi  Rice
+302 :: 503 :: Kadi patta  :: kadi patta :: Dahi  Rice
+302 :: 504 :: Hari mirchi fine chopped :: hari mirchi :: Dahi  Rice
+302 :: 505 :: Salt :: salt :: Dahi  Rice
+302 :: 506 :: Dhania Patta  :: dhaniya patta :: Dahi  Rice
+302 :: 507 :: Ambahaldi :: ambahaldi :: Dahi  Rice
+302 :: 508 :: Kafir lemon leaves :: kafir lemon leaves :: Dahi  Rice
+302 :: 513 :: Turdal :: tur dal :: SAMBAR GP
+302 :: 514 :: imli :: imli :: SAMBAR GP
+302 :: 515 :: Haldi :: haldi :: SAMBAR GP
+302 :: 516 :: Hing :: hing :: SAMBAR GP
+302 :: 517 :: Drum Stick :: drum stick :: SAMBAR GP
+302 :: 518 :: Bhopla :: bhopla :: SAMBAR GP
+302 :: 519 :: Capsicum :: capsicum :: SAMBAR GP
+302 :: 520 :: potatoes :: alu :: SAMBAR GP
+302 :: 521 :: Bhindi :: bhindi :: SAMBAR GP
+302 :: 522 :: MTR Rasam powder :: mtr rasam masala :: SAMBAR GP
+302 :: 523 :: Annapoorna Sambar pwd :: annapoorna sambar masala :: SAMBAR GP
+302 :: 524 :: Shakti Sambar pwd :: shakti sambar powder :: SAMBAR GP
+302 :: 525 :: Coconut :: coconut :: SAMBAR GP
+302 :: 526 :: Jaggery  :: gud :: SAMBAR GP
+SAMBAR GP-form not valid
+200 :: 527 :: chaunce :: chaunce :: SAMBAR GP
+302 :: 528 :: Ghee  :: ghee :: SAMBAR GP
+302 :: 529 :: Rai  :: rai :: SAMBAR GP
+302 :: 530 :: Kadi patta  :: kadi patta :: SAMBAR GP
+302 :: 535 :: Moong dal :: moong dal :: Moong Dal Dossa
+302 :: 536 :: Khichdi Rice :: khichadi rice :: Moong Dal Dossa
+302 :: 537 :: Akha Methi :: akha methi :: Moong Dal Dossa
+302 :: 538 :: Hing :: hing :: Moong Dal Dossa
+302 :: 539 :: Capsicum :: capsicum :: Moong Dal Dossa
+302 :: 540 :: Tomato :: tomato :: Moong Dal Dossa
+302 :: 541 :: Hari Mirchi fine chopped :: hari mirchi :: Moong Dal Dossa
+302 :: 542 :: Adrak paste :: adrak :: Moong Dal Dossa
+302 :: 543 :: Salt :: salt :: Moong Dal Dossa
+302 :: 544 :: Kadi patta :: kadi patta :: Moong Dal Dossa
+Moong Dal Dossa-form not valid
+200 :: 545 :: Pudina :: pudina :: Moong Dal Dossa
+302 :: 546 :: Dhania powder :: dhaniya powder :: Moong Dal Dossa
+302 :: 547 :: Black pepper pwd :: black pepper :: Moong Dal Dossa
+302 :: 548 :: Batter yield :: batter yield :: Moong Dal Dossa
+200 :: 549 :: Batter yield :: batter yield :: Moong Dal Dossa
+302 :: 553 :: Til oil :: til oil :: Tomato Chutni
+302 :: 554 :: Hing :: hing :: Tomato Chutni
+302 :: 555 :: Pandi mirchi :: pandi mirchi :: Tomato Chutni
+302 :: 556 :: Kashmiri mirchi :: kashmiri chilly powder :: Tomato Chutni
+302 :: 557 :: Pudina :: pudina :: Tomato Chutni
+302 :: 558 :: Tomato :: tomato :: Tomato Chutni
+302 :: 559 :: Salt :: salt :: Tomato Chutni
+Tomato Chutni-form not valid
+200 :: 560 :: Chaunce :: chaunce :: Tomato Chutni
+200 :: 561 :: Til oil :: til oil :: Tomato Chutni
+302 :: 562 :: Rai :: rai :: Tomato Chutni
+302 :: 563 :: Jeera :: jeera :: Tomato Chutni
+302 :: 564 :: Kadipatta :: kadi patta :: Tomato Chutni
+302 :: 571 :: Lemongrass stalks :: lemongrass stalks :: Green curry
+302 :: 572 :: Thai ginger :: thai ginger :: Green curry
+302 :: 573 :: Akha dhaniya :: akha dhaniya :: Green curry
+302 :: 574 :: Kafir lemon leaves :: kafir lemon leaves :: Green curry
+302 :: 575 :: Hari Mirchi paste :: hari mirchi :: Green curry
+302 :: 577 :: Palak paste :: palak :: Green curry
+302 :: 578 :: Ajinomoto :: ajinomoto :: Green curry
+302 :: 579 :: Green capsicum paste :: green capsicum :: Green curry
+302 :: 580 :: Butter :: butter :: Green curry
+302 :: 581 :: Broccoli :: broccoli :: Green curry
+302 :: 582 :: Zucchini :: zucchini :: Green curry
+302 :: 583 :: Red capsicum :: red capsicum :: Green curry
+302 :: 584 :: Yellow capsicum :: yellow capsicum :: Green curry
+302 :: 586 :: Hot water :: hot water :: Green curry
+302 :: 587 :: Maggi coconut milk powder :: maggi coconut milk powder :: Green curry
+302 :: 588 :: Maggi seasoning :: maggi seasoning :: Green curry
+302 :: 589 :: corn flour :: corn flour :: Green curry
+302 :: 590 :: Basil leaves chopped :: basil leaves :: Green curry
+302 :: 594 :: Rice :: rice :: Nithai Rice
+302 :: 595 :: Salt :: salt :: Nithai Rice
+302 :: 596 :: SAM Soya Sauce :: sam soya sauce :: Nithai Rice
+302 :: 597 :: Maggi seasoning :: maggi seasoning :: Nithai Rice
+302 :: 598 :: Green chilli sauce :: green chilli sauce :: Nithai Rice
+302 :: 599 :: Black Pepper pwd :: black pepper :: Nithai Rice
+302 :: 600 :: Red Capsicum :: red capsicum :: Nithai Rice
+302 :: 602 :: Yellow Capsicum  :: yellow capsicum :: Nithai Rice
+302 :: 604 :: Green Capsicum  :: green capsicum :: Nithai Rice
+302 :: 606 :: Beans :: beans :: Nithai Rice
+302 :: 608 :: Baby Corn :: baby corn :: Nithai Rice
+302 :: 610 :: EVOO / Butter  :: evoo :: Nithai Rice
+302 :: 611 :: Basil Leaves :: basil leaves :: Nithai Rice
+302 :: 614 :: Rajma  :: rajma :: Minestrone soup
+302 :: 615 :: Beans :: beans :: Minestrone soup
+302 :: 616 :: Gajar :: gajar :: Minestrone soup
+302 :: 617 :: Capsicum  :: capsicum :: Minestrone soup
+302 :: 618 :: Zucchini :: zucchini :: Minestrone soup
+302 :: 619 :: Tomato :: tomato :: Minestrone soup
+302 :: 620 :: Basil Leaves :: basil leaves :: Minestrone soup
+Minestrone soup-form not valid
+200 :: 621 :: VEGETABLE STOCK :: VEGETABLE STOCK :: Minestrone soup
+302 :: 622 :: Parsley :: parsley :: Minestrone soup
+302 :: 623 :: Chopped Celery Stick :: celery stick :: Minestrone soup
+302 :: 624 :: Thyme :: thyme :: Minestrone soup
+302 :: 625 :: Rose merry :: rose merry :: Minestrone soup
+200 :: 626 :: Gajar :: gajar :: Minestrone soup
+302 :: 628 :: Salt  :: salt :: Minestrone soup
+302 :: 629 :: EVOO :: evoo :: Minestrone soup
+302 :: 630 :: Hing  :: hing :: Minestrone soup
+302 :: 631 :: Black Pepper Pwd :: black pepper :: Minestrone soup
+200 :: 632 :: Chopped Celery Stick :: celery stick :: Minestrone soup
+302 :: 633 :: Fennel Bulb :: fennel bulb :: Minestrone soup
+302 :: 634 :: Blue bird Brown sugar (bluebird) :: brown sugar :: Minestrone soup
+302 :: 635 :: EVOO TOP :: evoo :: Minestrone soup
+302 :: 641 :: Babycorn deep fried :: baby corn :: Sauted Vegetables
+302 :: 643 :: Red capsicum sauted :: red capsicum :: Sauted Vegetables
+302 :: 645 :: Yellow capsicum sauted :: yellow capsicum :: Sauted Vegetables
+302 :: 647 :: Green capsicum sauted :: green capsicum :: Sauted Vegetables
+302 :: 649 :: Broccoli steamed :: broccoli :: Sauted Vegetables
+Sauted Vegetables-form not valid
+200 :: 650 :: Zucchini :: zucchini :: Sauted Vegetables
+302 :: 651 :: Zucchini sauted :: zucchini :: Sauted Vegetables
+302 :: 653 :: Basil chopped :: basil leaves :: Sauted Vegetables
+302 :: 655 :: Panir deep fried :: panir :: Sauted Vegetables
+302 :: 656 :: Tulsi Tomato sauce  :: tulsi tomato sauce :: Sauted Vegetables
+302 :: 657 :: Green chilli sauce :: green chilli sauce :: Sauted Vegetables
+302 :: 658 :: Soya Sauce :: soya sauce :: Sauted Vegetables
+302 :: 659 :: Butter/EVOO :: butter :: Sauted Vegetables
+302 :: 660 :: Black pepper powder :: black pepper :: Sauted Vegetables
+302 :: 661 :: Hing :: hing :: Sauted Vegetables
+302 :: 662 :: Salt :: salt :: Sauted Vegetables
+Sauted Vegetables-form not valid
+200 :: 665 :: oil for frying :: gound nut oil :: Sauted Vegetables
+302 :: 669 :: Groundnut Oil (Singdana Tel) :: ground nut oil :: Schezwan sauce
+302 :: 670 :: Adrak (Ginger) :: adrak :: Schezwan sauce
+302 :: 671 :: Celery Stick :: celery stick :: Schezwan sauce
+302 :: 672 :: Green chilly :: hari mirchi :: Schezwan sauce
+302 :: 673 :: Cabbage (Desi) :: cabbage (desi) :: Schezwan sauce
+302 :: 674 :: Chilly Sauce :: chilly sauce :: Schezwan sauce
+302 :: 675 :: Tomato Sauce :: tomato :: Schezwan sauce
+302 :: 676 :: Kashmiri Mirchi :: kashmiri chilly powder :: Schezwan sauce
+302 :: 677 :: White Pepper Powder :: white pepper powder :: Schezwan sauce
+302 :: 678 :: Salt (Namak) :: salt :: Schezwan sauce
+302 :: 679 :: Sugar (Chini) :: sugar :: Schezwan sauce
+302 :: 684 :: Dhaniya :: dhaniya powder :: Kothimbit wadi
+302 :: 685 :: Besan (Chickpea Flour) :: besan :: Kothimbit wadi
+302 :: 686 :: Rice Flour :: rice flour :: Kothimbit wadi
+302 :: 687 :: Water :: water :: Kothimbit wadi
+302 :: 688 :: Green chilly :: hari mirchi :: Kothimbit wadi
+302 :: 689 :: Adrak Paste :: adrak :: Kothimbit wadi
+302 :: 690 :: Dhania Powder (Coriander Pdr) :: dhaniya powder :: Kothimbit wadi
+302 :: 691 :: Zeera Powder (Cumin Pdr) :: jeera powder :: Kothimbit wadi
+302 :: 692 :: Haldi (Turmeric Pdr) :: haldi :: Kothimbit wadi
+302 :: 693 :: Lal Mirchi Powder (Red Chilli Pdr) :: madrasi mirchi powder :: Kothimbit wadi
+302 :: 694 :: Salt (Namak) :: salt :: Kothimbit wadi
+Kothimbit wadi-form not valid
+200 :: 695 :: Chaunce :: chaunce :: Kothimbit wadi
+302 :: 696 :: Groundnut Oil (Singdana Tel) :: ground nut oil :: Kothimbit wadi
+302 :: 697 :: Zeera (Cumin Seeds) :: jeera :: Kothimbit wadi
+302 :: 698 :: Hing (Asafoetida) :: hing :: Kothimbit wadi
+Kothimbit wadi-form not valid
+200 :: 699 :: Dhania Patta (Coriander Leaves) :: dhaniya patta :: Kothimbit wadi
+302 :: 700 :: Chat Masala :: chat masala :: Kothimbit wadi
+
+
+Biryani Dum Layer-form not valid
+200 :: 704 :: Shahi Jeera :: shahi jeera :: Biryani Dum Layer
+Biryani Dum Layer-form not valid
+200 :: 705 :: Starfal :: starfal :: Biryani Dum Layer
+Biryani Dum Layer-form not valid
+200 :: 706 :: Dagad Ful :: dagad ful :: Biryani Dum Layer
+Biryani Dum Layer-form not valid
+200 :: 707 :: Dalchini :: dalchini :: Biryani Dum Layer
+Biryani Dum Layer-form not valid
+200 :: 708 :: Lavang :: lavang :: Biryani Dum Layer
+Biryani Dum Layer-form not valid
+200 :: 709 :: Kalimiri :: kalimiri :: Biryani Dum Layer
+Biryani Dum Layer-form not valid
+200 :: 710 :: Tej Patta :: tej patta :: Biryani Dum Layer
+Biryani Dum Layer-form not valid
+200 :: 711 :: Masala Elaichi :: elaichi :: Biryani Dum Layer
+Biryani Dum Layer-form not valid
+200 :: 712 :: Green Elaichi :: green elaichi :: Biryani Dum Layer
+Biryani Dum Layer-form not valid
+200 :: 713 :: Jaiwantri :: jaiwantri :: Biryani Dum Layer
+Biryani Dum Layer-form not valid
+200 :: 714 :: Jeera :: jeera :: Biryani Dum Layer
+Biryani Dum Layer-form not valid
+200 :: 715 :: Kasuri Methi :: kasuri methi :: Biryani Dum Layer
+Biryani Dum Layer-form not valid
+200 :: 716 :: Kasmiri Mirchi :: kashmiri chilly powder :: Biryani Dum Layer
+Biryani Dum Layer-form not valid
+200 :: 718 :: Dhaniya Powder :: dhaniya powder :: Biryani Dum Layer
+Biryani Dum Layer-form not valid
+200 :: 719 :: Haldi Powder :: haldi :: Biryani Dum Layer
+Biryani Dum Layer-form not valid
+200 :: 720 :: Hing Powder :: hing :: Biryani Dum Layer
+Biryani Dum Layer-form not valid
+200 :: 721 :: Kashmiri Mirchi Powder :: kashmiri chilly powder :: Biryani Dum Layer
+Biryani Dum Layer-form not valid
+200 :: 722 :: Badshah Rajwadi Garam Masala :: badshah rajwadi garam masala :: Biryani Dum Layer
+Biryani Dum Layer-form not valid
+200 :: 723 :: Everest Chole Masala :: everest chole masala :: Biryani Dum Layer
+Biryani Dum Layer-form not valid
+200 :: 724 :: Everest Shahi Briyani Masala :: everest shahi briyani masala :: Biryani Dum Layer
+Biryani Dum Layer-form not valid
+200 :: 725 :: Kapol Chat Masala :: kapol chat masala :: Biryani Dum Layer
+Biryani Dum Layer-form not valid
+200 :: 726 :: Black Salt Powder :: black salt :: Biryani Dum Layer
+302 :: 727 :: Tata salt :: salt :: Biryani Dum Layer
+302 :: 728 :: Kaju Kani :: kaju kani :: Biryani Dum Layer
+302 :: 729 :: Magaj :: magaj :: Biryani Dum Layer
+Biryani Dum Layer-form not valid
+200 :: 730 :: White Teel :: white til :: Biryani Dum Layer
+Biryani Dum Layer-form not valid
+200 :: 731 :: Khas Khas :: khas khas :: Biryani Dum Layer
+302 :: 732 :: Ghee :: ghee :: Biryani Dum Layer
+302 :: 733 :: Oil :: gound nut oil :: Biryani Dum Layer
+302 :: 734 :: Orange Red Colour :: orange red colour :: Biryani Dum Layer
+302 :: 735 :: Lemon Yellow Colour :: lemon yellow colour :: Biryani Dum Layer
+302 :: 736 :: Apple Green Colour :: apple green colour :: Biryani Dum Layer
+302 :: 737 :: Basmati Rice :: basmati rice :: Biryani Dum Layer
+302 :: 738 :: Tomato 1 :: tomato :: Biryani Dum Layer
+302 :: 739 :: Tomato 2 :: tomato :: Biryani Dum Layer
+302 :: 740 :: Adrak :: adrak :: Biryani Dum Layer
+302 :: 741 :: Mirchi :: hari mirchi :: Biryani Dum Layer
+Biryani Dum Layer-form not valid
+200 :: 742 :: Kadipatta :: kadi patta :: Biryani Dum Layer
+302 :: 743 :: Dhaniyapatta :: dhaniya patta :: Biryani Dum Layer
+302 :: 744 :: Pudina :: pudina :: Biryani Dum Layer
+302 :: 745 :: Beans :: beans :: Biryani Dum Layer
+302 :: 746 :: Cauli Flower :: cauli flower :: Biryani Dum Layer
+302 :: 747 :: Cabbage :: cabbage :: Biryani Dum Layer
+302 :: 748 :: Carrot :: carrot :: Biryani Dum Layer
+302 :: 749 :: Green Peas :: green peas :: Biryani Dum Layer
+302 :: 750 :: Potato :: alu :: Biryani Dum Layer
+302 :: 751 :: Simla :: capsicum :: Biryani Dum Layer
+302 :: 753 :: Mawa :: mawa :: Biryani Dum Layer
+302 :: 754 :: Amul Butter :: amul butter :: Biryani Dum Layer
+302 :: 755 :: Amul Fresh Cream :: amul fresh cream :: Biryani Dum Layer
+302 :: 756 :: Curd :: dahi :: Biryani Dum Layer
+200 :: 758 :: Mawa :: mawa :: Biryani Dum Layer
+200 :: 759 :: Amul Butter :: amul butter :: Biryani Dum Layer
+200 :: 760 :: Amul Fresh Cream :: amul fresh cream :: Biryani Dum Layer
+302 :: 761 :: Chedder cheese :: chedder cheese :: Biryani Dum Layer
+200 :: 762 :: Curd :: dahi :: Biryani Dum Layer
+302 :: 765 :: Gajar :: gajar :: Mix Veg Poha
+302 :: 766 :: beans( optional when rate is low) :: beans :: Mix Veg Poha
+302 :: 767 :: Green Peas :: green peas :: Mix Veg Poha
+302 :: 768 :: Alu :: alu :: Mix Veg Poha
+302 :: 769 :: green chilly :: hari mirchi :: Mix Veg Poha
+302 :: 770 :: Dhania patta :: dhaniya patta :: Mix Veg Poha
+302 :: 771 :: ginger :: adrak :: Mix Veg Poha
+302 :: 772 :: kadipatta :: kadi patta :: Mix Veg Poha
+302 :: 773 :: Jada Poha    :: jada poha :: Mix Veg Poha
+302 :: 774 :: oil(groundnut) :: gound nut oil :: Mix Veg Poha
+302 :: 775 :: Rai :: rai :: Mix Veg Poha
+302 :: 776 :: Jeera :: jeera :: Mix Veg Poha
+302 :: 777 :: akkha singdana :: singdana :: Mix Veg Poha
+302 :: 778 :: haldi :: haldi :: Mix Veg Poha
+302 :: 779 :: madrasi chili powder :: madrasi mirchi powder :: Mix Veg Poha
+302 :: 780 :: hing :: hing :: Mix Veg Poha
+302 :: 781 :: salt :: salt :: Mix Veg Poha
+302 :: 783 :: Gajar :: gajar :: Upma
+302 :: 784 :: beans( optional when rate is low) :: beans :: Upma
+302 :: 785 :: Green Peas :: green peas :: Upma
+302 :: 786 :: green chilly :: hari mirchi :: Upma
+302 :: 787 :: Dhania patta :: dhaniya patta :: Upma
+302 :: 788 :: ginger :: adrak :: Upma
+302 :: 789 :: kadipatta :: kadi patta :: Upma
+302 :: 790 :: hot water :: hot water :: Upma
+302 :: 791 :: Upma       :: upma :: Upma
+302 :: 792 :: oil(groundnut) :: gound nut oil :: Upma
+302 :: 793 :: Rai :: rai :: Upma
+302 :: 794 :: chana dal :: chana dal :: Upma
+302 :: 795 :: urad dal :: urad dal :: Upma
+302 :: 796 :: haldi :: haldi :: Upma
+302 :: 797 :: kashmiri chili powder :: kashmiri chilly powder :: Upma
+302 :: 798 :: hing :: hing :: Upma
+302 :: 799 :: salt :: salt :: Upma
+302 :: 801 :: gajar :: gajar :: Vermicllly
+302 :: 802 :: beans( optional when rate is low) :: beans :: Vermicllly
+302 :: 803 :: Green Peas :: green peas :: Vermicllly
+302 :: 804 :: green chilly :: hari mirchi :: Vermicllly
+302 :: 805 :: Dhania patta :: dhaniya patta :: Vermicllly
+302 :: 806 :: ginger :: adrak :: Vermicllly
+302 :: 807 :: kadipatta :: kadi patta :: Vermicllly
+302 :: 808 :: hot water :: hot water :: Vermicllly
+302 :: 809 :: Vermicilly  :: vermicilly :: Vermicllly
+302 :: 810 :: oil(groundnut) :: gound nut oil :: Vermicllly
+302 :: 811 :: Rai :: rai :: Vermicllly
+302 :: 812 :: chana dal :: chana dal :: Vermicllly
+302 :: 813 :: urad dal :: urad dal :: Vermicllly
+302 :: 814 :: haldi :: haldi :: Vermicllly
+302 :: 815 :: kashmiri chili powder :: kashmiri chilly powder :: Vermicllly
+302 :: 816 :: hing :: hing :: Vermicllly
+302 :: 817 :: pav bhaji masala :: pav bhaji masala :: Vermicllly
+302 :: 818 :: salt :: salt :: Vermicllly
+302 :: 820 :: coconut :: coconut :: Pongal
+302 :: 821 :: kadipatta :: kadi patta :: Pongal
+302 :: 822 :: Ginger :: adrak :: Pongal
+302 :: 823 :: kchidi Rice  :: khichadi rice :: Pongal
+302 :: 824 :: moong Daal   :: moong dal :: Pongal
+302 :: 825 :: Ghee       :: ghee :: Pongal
+302 :: 826 :: oil(groundnut) :: gound nut oil :: Pongal
+302 :: 827 :: jeera :: jeera :: Pongal
+302 :: 828 :: hing :: hing :: Pongal
+302 :: 829 :: kaju :: kaju :: Pongal
+302 :: 830 :: black pepper akkha :: black pepper :: Pongal
+302 :: 831 :: salt :: salt :: Pongal
+302 :: 833 :: coconut :: coconut :: Udapi Poha
+302 :: 834 :: banana(elaichi) :: banana :: Udapi Poha
+302 :: 835 :: Patala Poha :: patala poha :: Udapi Poha
+302 :: 836 :: black til :: black til :: Udapi Poha
+302 :: 837 :: white til :: white til :: Udapi Poha
+302 :: 838 :: ghee :: ghee :: Udapi Poha
+302 :: 839 :: jaggary :: gud :: Udapi Poha
+302 :: 840 :: honey :: honey :: Udapi Poha
+302 :: 841 :: elaichi powder :: elaichi powder :: Udapi Poha
+302 :: 843 :: Gajar :: gajar :: Lapsi
+302 :: 844 :: beans( optional when rate is low) :: beans :: Lapsi
+302 :: 845 :: Green Peas :: green peas :: Lapsi
+302 :: 846 :: Alu :: alu :: Lapsi
+302 :: 847 :: Tomato :: tomato :: Lapsi
+302 :: 848 :: green chilly :: hari mirchi :: Lapsi
+302 :: 849 :: Dhania patta :: dhaniya patta :: Lapsi
+302 :: 850 :: ginger :: adrak :: Lapsi
+302 :: 851 :: kadipatta :: kadi patta :: Lapsi
+302 :: 852 :: hot water :: hot water :: Lapsi
+302 :: 853 :: Lapsi :: lapsi :: Lapsi
+302 :: 854 :: oil(groundnut) :: gound nut oil :: Lapsi
+302 :: 855 :: Rai :: rai :: Lapsi
+302 :: 856 :: Jeera :: jeera :: Lapsi
+302 :: 857 :: badsah pulav masala :: badsah pulav masala :: Lapsi
+302 :: 858 :: haldi :: haldi :: Lapsi
+302 :: 859 :: kashmiri chili powdre :: kashmiri chilly powder :: Lapsi
+302 :: 860 :: madrasi chili akkha :: madrasi mirchi akkaha :: Lapsi
+302 :: 861 :: hing :: hing :: Lapsi
+302 :: 862 :: salt :: salt :: Lapsi
+302 :: 864 :: cabbage :: cabbage :: Noodles
+302 :: 865 :: capcicum :: capsicum :: Noodles
+302 :: 866 :: gajar :: gajar :: Noodles
+302 :: 867 :: beans :: beans :: Noodles
+302 :: 868 :: green chili ( chopp ) :: hari mirchi :: Noodles
+302 :: 869 :: adrak (grate in morning) :: adrak :: Noodles
+302 :: 870 :: lemon juice :: lemon :: Noodles
+302 :: 871 :: tomato :: tomato :: Noodles
+302 :: 873 :: fresh tomato sauce :: tomato sauce :: Noodles
+302 :: 874 :: soya sauce :: soya sauce :: Noodles
+302 :: 875 :: noodles :: noodles :: Noodles
+302 :: 876 :: ground nut oil :: ground nut oil :: Noodles
+302 :: 877 :: white pepper powder :: white pepper powder :: Noodles
+302 :: 878 :: salt  :: salt :: Noodles
+302 :: 879 :: black pepper powder :: black pepper :: Noodles
+Noodles-form not valid
+200 :: 880 :: brown sugar :: brown sugar :: Noodles
+302 :: 882 :: tomato(med jali) :: tomato :: Usal Pav
+302 :: 883 :: coconut :: coconut :: Usal Pav
+302 :: 884 :: lemon  :: lemon :: Usal Pav
+302 :: 885 :: watana(cookr fire stop aftr :: watana :: Usal Pav
+302 :: 887 :: oil :: gound nut oil :: Usal Pav
+302 :: 888 :: tejpatta :: tej patta :: Usal Pav
+302 :: 889 :: rai :: rai :: Usal Pav
+302 :: 890 :: jeera :: jeera :: Usal Pav
+302 :: 891 :: hing :: hing :: Usal Pav
+302 :: 892 :: adrak :: adrak :: Usal Pav
+302 :: 893 :: haldi :: haldi :: Usal Pav
+302 :: 894 :: dhania powder :: dhaniya powder :: Usal Pav
+302 :: 895 :: jeera powder :: jeera powder :: Usal Pav
+Usal Pav-form not valid
+200 :: 896 :: kashmiri mirchi powder :: kashmiri chilly powder :: Usal Pav
+302 :: 897 :: kubal usam masala :: kubal usal masala :: Usal Pav
+302 :: 898 :: sugar :: sugar :: Usal Pav
+302 :: 899 :: salt :: salt :: Usal Pav
+302 :: 901 :: RICE :: rice :: Idli
+302 :: 902 :: urad dal :: urad dal :: Idli
+302 :: 903 :: salt :: salt :: Idli
+302 :: 905 :: coconut :: coconut :: Sambar
+302 :: 906 :: drum stick :: drum stick :: Sambar
+302 :: 907 :: mugi :: mugi :: Sambar
+302 :: 908 :: bhopla :: bhopla :: Sambar
+302 :: 909 :: potato :: alu :: Sambar
+302 :: 910 :: kadipatta :: kadi patta :: Sambar
+302 :: 911 :: tomato :: tomato :: Sambar
+302 :: 912 :: tur dal :: tur dal :: Sambar
+302 :: 913 :: imli :: imli :: Sambar
+302 :: 914 :: haldi :: haldi :: Sambar
+302 :: 915 :: hing :: hing :: Sambar
+302 :: 916 :: jaggary :: gud :: Sambar
+302 :: 917 :: rai :: rai :: Sambar
+302 :: 918 :: MTR masala :: mtr rasam masala :: Sambar
+302 :: 919 :: anapoorna sambar ms :: annapoorna sambar masala :: Sambar
+302 :: 920 :: ghee/oil :: ghee :: Sambar
+302 :: 921 :: salt (IF TATA THEN 1.5 cup) :: salt :: Sambar
+302 :: 923 :: lemon juice :: lemon :: Lemon Rice
+302 :: 924 :: kadi patta :: kadi patta :: Lemon Rice
+302 :: 925 :: dhaniya patta :: dhaniya patta :: Lemon Rice
+302 :: 926 :: green chily(long cut) :: hari mirchi :: Lemon Rice
+302 :: 927 :: adrak :: adrak :: Lemon Rice
+302 :: 928 :: Rice :: rice :: Lemon Rice
+302 :: 929 :: rai :: rai :: Lemon Rice
+302 :: 930 :: urad dal :: urad dal :: Lemon Rice
+302 :: 931 :: chana dal :: chana dal :: Lemon Rice
+302 :: 932 :: hing :: hing :: Lemon Rice
+302 :: 933 :: haldi :: haldi :: Lemon Rice
+302 :: 934 :: oil(ground nut) :: gound nut oil :: Lemon Rice
+302 :: 935 :: singdana :: singdana :: Lemon Rice
+302 :: 936 :: salt :: salt :: Lemon Rice
+302 :: 938 :: tamrind :: tamrind :: Tamrind Rice
+302 :: 939 :: kadi patta :: kadi patta :: Tamrind Rice
+302 :: 940 :: dhaniya patta :: dhaniya patta :: Tamrind Rice
+302 :: 941 :: green chily(long cut) :: hari mirchi :: Tamrind Rice
+302 :: 942 :: Rice :: rice :: Tamrind Rice
+302 :: 943 :: rai :: rai :: Tamrind Rice
+302 :: 944 :: urad dal :: urad dal :: Tamrind Rice
+302 :: 945 :: chana dal :: chana dal :: Tamrind Rice
+302 :: 946 :: hing :: hing :: Tamrind Rice
+302 :: 947 :: haldi :: haldi :: Tamrind Rice
+302 :: 948 :: oil(ground nut) :: gound nut oil :: Tamrind Rice
+302 :: 949 :: singdana :: singdana :: Tamrind Rice
+302 :: 950 :: salt :: salt :: Tamrind Rice
+302 :: 951 :: jaggary :: gud :: Tamrind Rice
+302 :: 953 :: milk :: milk :: Varai Kheer
+302 :: 954 :: khajur :: khajur :: Varai Kheer
+302 :: 955 :: kaju tukada :: kaju tukada :: Varai Kheer
+302 :: 956 :: varai rice :: varai :: Varai Kheer
+302 :: 957 :: sugar :: sugar :: Varai Kheer
+302 :: 959 :: dudhi :: dudhi :: Khichadi
+302 :: 960 :: bhopla :: bhopla :: Khichadi
+302 :: 961 :: water(10 times) :: water :: Khichadi
+302 :: 962 :: kadipatta :: kadi patta :: Khichadi
+302 :: 963 :: dhaniya patta :: dhaniya patta :: Khichadi
+302 :: 964 :: adrak paste :: adrak :: Khichadi
+302 :: 965 :: rice :: rice :: Khichadi
+302 :: 966 :: dal :: dal :: Khichadi
+302 :: 967 :: salt :: salt :: Khichadi
+302 :: 968 :: haldi :: haldi :: Khichadi
+302 :: 969 :: rai :: rai :: Khichadi
+302 :: 970 :: jeera :: jeera :: Khichadi
+302 :: 971 :: hing :: hing :: Khichadi
+302 :: 972 :: ghee :: ghee :: Khichadi
+302 :: 974 :: tomato :: tomato :: Dwadashi / Spicy Khichadi
+302 :: 975 :: beans :: beans :: Dwadashi / Spicy Khichadi
+302 :: 976 :: gajar :: gajar :: Dwadashi / Spicy Khichadi
+302 :: 977 :: green peas :: green peas :: Dwadashi / Spicy Khichadi
+302 :: 978 :: dudhi :: dudhi :: Dwadashi / Spicy Khichadi
+302 :: 979 :: bhopla :: bhopla :: Dwadashi / Spicy Khichadi
+302 :: 980 :: flower :: flower :: Dwadashi / Spicy Khichadi
+302 :: 981 :: water(10 times) :: water :: Dwadashi / Spicy Khichadi
+302 :: 982 :: kadipatta :: kadi patta :: Dwadashi / Spicy Khichadi
+302 :: 983 :: dhaniya patta :: dhaniya patta :: Dwadashi / Spicy Khichadi
+302 :: 984 :: adrak paste :: adrak :: Dwadashi / Spicy Khichadi
+302 :: 985 :: green chily :: hari mirchi :: Dwadashi / Spicy Khichadi
+302 :: 988 :: salt :: salt :: Dwadashi / Spicy Khichadi
+302 :: 989 :: haldi :: haldi :: Dwadashi / Spicy Khichadi
+302 :: 990 :: rai :: rai :: Dwadashi / Spicy Khichadi
+302 :: 991 :: jeera :: jeera :: Dwadashi / Spicy Khichadi
+302 :: 992 :: hing :: hing :: Dwadashi / Spicy Khichadi
+302 :: 993 :: dhaniya powder :: dhaniya powder :: Dwadashi / Spicy Khichadi
+302 :: 994 :: jeera powder :: jeera powder :: Dwadashi / Spicy Khichadi
+302 :: 995 :: kashmiri chily pwder :: kashmiri chilly powder :: Dwadashi / Spicy Khichadi
+302 :: 996 :: madrasi chili powder :: madrasi mirchi powder :: Dwadashi / Spicy Khichadi
+302 :: 997 :: akkha madrasi mirch :: akkha madrasi mirchi :: Dwadashi / Spicy Khichadi
+302 :: 998 :: OIL :: gound nut oil :: Dwadashi / Spicy Khichadi
+302 :: 999 :: sugar :: sugar :: Dwadashi / Spicy Khichadi
+
+
+302 :: 1004 :: green chilly :: hari mirchi :: Rice Sevai
+302 :: 1005 :: Dhania patta :: dhaniya patta :: Rice Sevai
+302 :: 1006 :: ginger :: adrak :: Rice Sevai
+302 :: 1007 :: kadipatta :: kadi patta :: Rice Sevai
+302 :: 1008 :: Rice Sevai :: rice sevai :: Rice Sevai
+302 :: 1009 :: oil(groundnut) :: gound nut oil :: Rice Sevai
+302 :: 1010 :: Rai :: rai :: Rice Sevai
+302 :: 1011 :: chana dal :: chana dal :: Rice Sevai
+302 :: 1012 :: urad dal :: urad dal :: Rice Sevai
+302 :: 1013 :: haldi :: haldi :: Rice Sevai
+302 :: 1014 :: kashmiri chili powder :: kashmiri chilly powder :: Rice Sevai
+302 :: 1015 :: hing :: hing :: Rice Sevai
+302 :: 1016 :: salt :: salt :: Rice Sevai
+302 :: 1018 :: kakdi/green peas/beans :: kakdi :: Sushila Bhel
+302 :: 1019 :: green mung :: green mung :: Sushila Bhel
+302 :: 1020 :: green chily :: hari mirchi :: Sushila Bhel
+302 :: 1021 :: tomato :: tomato :: Sushila Bhel
+302 :: 1022 :: potato :: alu :: Sushila Bhel
+302 :: 1023 :: dhaniya patta :: dhaniya patta :: Sushila Bhel
+302 :: 1024 :: adrak :: adrak :: Sushila Bhel
+302 :: 1025 :: kadi patta :: kadi patta :: Sushila Bhel
+302 :: 1026 :: KURMURA :: kurmura :: Sushila Bhel
+302 :: 1027 :: oil(groundnut) :: gound nut oil :: Sushila Bhel
+302 :: 1028 :: Rai :: rai :: Sushila Bhel
+302 :: 1029 :: Jeera :: jeera :: Sushila Bhel
+302 :: 1030 :: akkha singdana :: singdana :: Sushila Bhel
+302 :: 1031 :: haldi :: haldi :: Sushila Bhel
+302 :: 1032 :: madrasi chili powder :: madrasi mirchi powder :: Sushila Bhel
+302 :: 1033 :: hing :: hing :: Sushila Bhel
+302 :: 1034 :: salt :: salt :: Sushila Bhel
+302 :: 1035 :: MDH garam masala :: mdh garam masala :: Sushila Bhel
+302 :: 1036 :: sugar :: sugar :: Sushila Bhel
+302 :: 1037 :: kashmiri chili powder :: kashmiri chilly powder :: Sushila Bhel
+200 :: 1038 :: salt :: salt :: Sushila Bhel
+302 :: 1039 :: daliya (roasted chana dal) :: daliya :: Sushila Bhel
+302 :: 1041 :: LEMON JUICE :: lemon :: Pudina Lemon Juice
+302 :: 1042 :: water :: water :: Pudina Lemon Juice
+302 :: 1043 :: PUDINA LEAVES :: pudina leaves :: Pudina Lemon Juice
+302 :: 1044 :: regular salt :: salt :: Pudina Lemon Juice
+302 :: 1045 :: black salt :: black salt :: Pudina Lemon Juice
+302 :: 1046 :: sugar :: sugar :: Pudina Lemon Juice
+302 :: 1048 :: badi sauf :: badi sauf :: Variyali
+302 :: 1049 :: water :: water :: Variyali
+302 :: 1050 :: sugar :: sugar :: Variyali
+302 :: 1052 :: sweet corn :: sweet corn :: Sweet Corn Soup
+302 :: 1053 :: hot water :: hot water :: Sweet Corn Soup
+302 :: 1057 :: milk :: milk :: Herbal Tea
+302 :: 1058 :: water :: water :: Herbal Tea
+302 :: 1059 :: herbal tea powder :: herbal tea powder :: Herbal Tea
+302 :: 1060 :: sugar :: sugar :: Herbal Tea
+302 :: 1061 :: elaichi powder :: elaichi powder :: Herbal Tea
+302 :: 1063 :: water :: water :: Barley / Ragi / Regira Malt
+302 :: 1064 :: BARLEY/RAGI/RAJGIRA :: barley :: Barley / Ragi / Regira Malt
+302 :: 1065 :: jaggary :: gud :: Barley / Ragi / Regira Malt
+302 :: 1066 :: dates :: dates :: Barley / Ragi / Regira Malt
+302 :: 1067 :: elaichi powder :: elaichi powder :: Barley / Ragi / Regira Malt
+302 :: 1069 :: lemon grass :: lemon grass :: Lemon Grass
+302 :: 1070 :: lemon juice :: lemon :: Lemon Grass
+302 :: 1071 :: ginger :: adrak :: Lemon Grass
+302 :: 1072 :: sugar :: sugar :: Lemon Grass
+302 :: 1074 :: COCONUT :: coconut :: Coconut Chutney
+302 :: 1077 :: daliya :: daliya :: Coconut Chutney
+302 :: 1079 :: tamrind :: tamrind :: Coconut Chutney
+302 :: 1080 :: coconut oil :: coconut oil :: Coconut Chutney
+302 :: 1081 :: chana dal :: chana dal :: Coconut Chutney
+302 :: 1082 :: urad dal :: urad dal :: Coconut Chutney
+302 :: 1083 :: madrasi mirchi akkaha :: madrasi mirchi akkaha :: Coconut Chutney
+302 :: 1089 :: potato :: alu :: ALU PARATHA
+302 :: 1090 :: green chili choppd :: hari mirchi :: ALU PARATHA
+302 :: 1091 :: dhaniya patta :: dhaniya patta :: ALU PARATHA
+302 :: 1092 :: adrak paste :: adrak :: ALU PARATHA
+302 :: 1093 :: wheat flour :: wheat flour :: ALU PARATHA
+302 :: 1096 :: coconut :: coconut :: DHOKLA
+302 :: 1097 :: dhaniya patta :: dhaniya patta :: DHOKLA
+302 :: 1098 :: water( for dough of besan) :: water :: DHOKLA
+302 :: 1099 :: water for stem :: water :: DHOKLA
+302 :: 1100 :: barik besan flour :: besan :: DHOKLA
+302 :: 1101 :: ground nut oil :: ground nut oil :: DHOKLA
+302 :: 1102 :: sugar :: sugar :: DHOKLA
+302 :: 1103 :: citric acid( NIMBU FOOL) :: nimbu fool :: DHOKLA
+302 :: 1104 :: salt :: salt :: DHOKLA
+302 :: 1105 :: haldi :: haldi :: DHOKLA
+302 :: 1106 ::  khane ka soda :: khane ka soda :: DHOKLA
+302 :: 1107 :: sauf :: sauf :: DHOKLA
+302 :: 1108 :: rai :: rai :: DHOKLA
+302 :: 1109 :: oil :: gound nut oil :: DHOKLA
+200 :: 1110 :: sugar :: sugar :: DHOKLA
+302 :: 1111 :: water :: water :: DHOKLA
+green chutney -Dhokla AND MUMBAI  BHEL-form not valid
+200 :: 1113 :: dhaniya patta :: dhaniya patta :: green chutney -Dhokla AND MUMBAI  BHEL
+green chutney -Dhokla AND MUMBAI  BHEL-form not valid
+200 :: 1114 :: dalia :: daliya :: green chutney -Dhokla AND MUMBAI  BHEL
+green chutney -Dhokla AND MUMBAI  BHEL-form not valid
+200 :: 1115 :: pudina leaves :: pudina leaves :: green chutney -Dhokla AND MUMBAI  BHEL
+302 :: 1116 :: lemon juice :: lemon :: green chutney -Dhokla AND MUMBAI  BHEL
+302 :: 1117 :: salt :: salt :: green chutney -Dhokla AND MUMBAI  BHEL
+302 :: 1118 :: chili (only for Bhel) :: hari mirchi :: green chutney -Dhokla AND MUMBAI  BHEL
+302 :: 1120 :: matar :: matar :: PATLA POHA
+302 :: 1121 :: gajar :: gajar :: PATLA POHA
+302 :: 1122 :: kakdi :: kakdi :: PATLA POHA
+302 :: 1123 :: tomato :: tomato :: PATLA POHA
+PATLA POHA-form not valid
+200 :: 1124 :: coconut :: coconut :: PATLA POHA
+302 :: 1125 :: dhaniya patta :: dhaniya patta :: PATLA POHA
+302 :: 1126 :: green chilly long cut :: hari mirchi :: PATLA POHA
+302 :: 1127 :: kadipatta :: kadi patta :: PATLA POHA
+PATLA POHA-form not valid
+200 :: 1128 :: patala poha :: patala poha :: PATLA POHA
+PATLA POHA-form not valid
+200 :: 1129 :: sugar :: sugar :: PATLA POHA
+302 :: 1130 :: salt :: salt :: PATLA POHA
+302 :: 1131 :: singdana :: singdana :: PATLA POHA
+302 :: 1132 :: ground nut oil :: ground nut oil :: PATLA POHA
+302 :: 1133 :: rai :: rai :: PATLA POHA
+302 :: 1134 :: jeera  :: jeera :: PATLA POHA
+302 :: 1135 :: haldi :: haldi :: PATLA POHA
+302 :: 1140 :: green chili chopped :: hari mirchi :: MUMBAI BHEL
+302 :: 1141 :: greeen chilly long cut :: hari mirchi :: MUMBAI BHEL
+302 :: 1142 :: lemon juice :: lemon :: MUMBAI BHEL
+302 :: 1143 :: sev :: sev :: MUMBAI BHEL
+302 :: 1144 :: tomato :: tomato :: MUMBAI BHEL
+302 :: 1145 :: potato :: alu :: MUMBAI BHEL
+302 :: 1146 :: kakdi :: kakdi :: MUMBAI BHEL
+302 :: 1147 :: dhaniya patta :: dhaniya patta :: MUMBAI BHEL
+302 :: 1148 :: kadipatta :: kadi patta :: MUMBAI BHEL
+302 :: 1149 :: KURMURA  :: kurmura :: MUMBAI BHEL
+302 :: 1150 :: salt :: salt :: MUMBAI BHEL
+302 :: 1151 :: madrasi chilli powder :: madrasi mirchi powder :: MUMBAI BHEL
+302 :: 1152 :: haldi powder :: haldi :: MUMBAI BHEL
+302 :: 1153 :: rai :: rai :: MUMBAI BHEL
+302 :: 1154 :: jeera :: jeera :: MUMBAI BHEL
+302 :: 1155 :: akkha madrasi mirh dry  :: akkha madrasi mirchi :: MUMBAI BHEL
+302 :: 1156 :: oil :: gound nut oil :: MUMBAI BHEL
+302 :: 1157 ::  singdana :: singdana :: MUMBAI BHEL
+302 :: 1158 :: daliya  :: daliya :: MUMBAI BHEL
+302 :: 1160 :: chat masala :: chat masala :: MUMBAI BHEL
+302 :: 1161 :: regular salt :: salt :: MUMBAI BHEL
+302 :: 1162 :: black salt :: black salt :: MUMBAI BHEL
+302 :: 1165 :: gajar :: gajar :: Gauranga fried  Rice
+302 :: 1166 :: Beans :: beans :: Gauranga fried  Rice
+302 :: 1167 :: Green peas :: green peas :: Gauranga fried  Rice
+302 :: 1168 :: green chili  :: hari mirchi :: Gauranga fried  Rice
+302 :: 1169 :: adrak :: adrak :: Gauranga fried  Rice
+302 :: 1170 :: kadipatta :: kadi patta :: Gauranga fried  Rice
+302 :: 1171 :: tomato :: tomato :: Gauranga fried  Rice
+302 :: 1172 :: dhaniya patta :: dhaniya patta :: Gauranga fried  Rice
+302 :: 1173 :: oil 1.5 ltr for 6.25 kg batch :: gound nut oil :: Gauranga fried  Rice
+302 :: 1174 :: rice :: rice :: Gauranga fried  Rice
+302 :: 1175 :: haldi :: haldi :: Gauranga fried  Rice
+302 :: 1176 :: rai :: rai :: Gauranga fried  Rice
+302 :: 1177 :: jeera :: jeera :: Gauranga fried  Rice
+302 :: 1178 :: kashmiri chilly PWD :: kashmiri chilly powder :: Gauranga fried  Rice
+302 :: 1179 :: hing :: hing :: Gauranga fried  Rice
+302 :: 1180 :: salt :: salt :: Gauranga fried  Rice
+200 :: 1181 :: rice :: rice :: Gauranga fried  Rice
+200 :: 1182 :: haldi :: haldi :: Gauranga fried  Rice
+200 :: 1183 :: rai :: rai :: Gauranga fried  Rice
+200 :: 1184 :: jeera :: jeera :: Gauranga fried  Rice
+200 :: 1185 :: kashmiri chilly PWD :: kashmiri chilly powder :: Gauranga fried  Rice
+200 :: 1186 :: hing :: hing :: Gauranga fried  Rice
+200 :: 1187 :: salt :: salt :: Gauranga fried  Rice
+302 :: 1189 :: Gajar :: gajar :: EKADASHI UPMA
+302 :: 1190 :: green chilly :: hari mirchi :: EKADASHI UPMA
+302 :: 1191 :: Dhania patta :: dhaniya patta :: EKADASHI UPMA
+302 :: 1192 :: ginger :: adrak :: EKADASHI UPMA
+302 :: 1193 :: kadipatta :: kadi patta :: EKADASHI UPMA
+302 :: 1194 :: hot water :: hot water :: EKADASHI UPMA
+302 :: 1196 :: varai :: varai :: EKADASHI UPMA
+302 :: 1197 :: oil(groundnut) :: gound nut oil :: EKADASHI UPMA
+302 :: 1198 :: kashmiri chili powder :: kashmiri chilly powder :: EKADASHI UPMA
+302 :: 1199 :: salt :: salt :: EKADASHI UPMA
+302 :: 1200 :: everest pulav masala :: everest pulav masala :: EKADASHI UPMA
+302 :: 1201 :: jeera :: jeera :: EKADASHI UPMA
+302 :: 1203 :: dudhi :: dudhi :: EKADASI KHICHDI NON-SPICY
+302 :: 1204 :: bhopla :: bhopla :: EKADASI KHICHDI NON-SPICY
+302 :: 1205 :: water(10 times) :: water :: EKADASI KHICHDI NON-SPICY
+302 :: 1206 :: kadipatta :: kadi patta :: EKADASI KHICHDI NON-SPICY
+302 :: 1207 :: dhaniya patta :: dhaniya patta :: EKADASI KHICHDI NON-SPICY
+302 :: 1208 :: adrak paste :: adrak :: EKADASI KHICHDI NON-SPICY
+302 :: 1209 :: VARAI :: varai :: EKADASI KHICHDI NON-SPICY
+302 :: 1210 :: salt :: salt :: EKADASI KHICHDI NON-SPICY
+302 :: 1211 :: jeera :: jeera :: EKADASI KHICHDI NON-SPICY
+302 :: 1212 :: ghee :: ghee :: EKADASI KHICHDI NON-SPICY
+302 :: 1215 :: tomato :: tomato :: EKADASHI KHICHDI  SPICY
+302 :: 1216 :: gajar :: gajar :: EKADASHI KHICHDI  SPICY
+302 :: 1217 :: dudhi :: dudhi :: EKADASHI KHICHDI  SPICY
+302 :: 1218 :: bhopla :: bhopla :: EKADASHI KHICHDI  SPICY
+302 :: 1219 :: water(10 times) :: water :: EKADASHI KHICHDI  SPICY
+302 :: 1220 :: kadipatta :: kadi patta :: EKADASHI KHICHDI  SPICY
+302 :: 1221 :: dhaniya patta :: dhaniya patta :: EKADASHI KHICHDI  SPICY
+302 :: 1222 :: adrak paste :: adrak :: EKADASHI KHICHDI  SPICY
+302 :: 1223 :: green chily :: hari mirchi :: EKADASHI KHICHDI  SPICY
+302 :: 1224 :: VARAI :: varai :: EKADASHI KHICHDI  SPICY
+302 :: 1225 :: salt :: salt :: EKADASHI KHICHDI  SPICY
+302 :: 1226 :: jeera :: jeera :: EKADASHI KHICHDI  SPICY
+302 :: 1227 :: dhaniya powder :: dhaniya powder :: EKADASHI KHICHDI  SPICY
+302 :: 1228 :: jeera powder :: jeera powder :: EKADASHI KHICHDI  SPICY
+302 :: 1229 :: kashmiri chily pwder :: kashmiri chilly powder :: EKADASHI KHICHDI  SPICY
+302 :: 1230 :: madrasi chili powder :: madrasi mirchi powder :: EKADASHI KHICHDI  SPICY
+302 :: 1231 :: akkha madrasi mirch :: akkha madrasi mirchi :: EKADASHI KHICHDI  SPICY
+302 :: 1232 :: oil :: gound nut oil :: EKADASHI KHICHDI  SPICY
+302 :: 1235 :: green chily (long cut) :: hari mirchi :: KURMURA SPICY
+302 :: 1236 :: kadi patta :: kadi patta :: KURMURA SPICY
+302 :: 1237 :: kurmura :: kurmura :: KURMURA SPICY
+302 :: 1238 :: ground nut akkha :: singdana :: KURMURA SPICY
+302 :: 1239 :: daliya roasted :: daliya :: KURMURA SPICY
+302 :: 1240 :: ground nut oil :: ground nut oil :: KURMURA SPICY
+302 :: 1241 :: salt :: salt :: KURMURA SPICY
+302 :: 1242 :: akkha madrasi mirch :: akkha madrasi mirchi :: KURMURA SPICY
+302 :: 1244 :: sweet corn :: sweet corn :: SWEET CORN BOILD BHUTTA
+302 :: 1245 :: black salt :: black salt :: SWEET CORN BOILD BHUTTA
+302 :: 1247 :: potato :: alu :: ALU CHURCHURY
+302 :: 1248 :: dhaniya patta :: dhaniya patta :: ALU CHURCHURY
+302 :: 1249 :: rai :: rai :: ALU CHURCHURY
+302 :: 1250 :: hing :: hing :: ALU CHURCHURY
+302 :: 1251 :: haldi :: haldi :: ALU CHURCHURY
+302 :: 1252 :: madrasi chilli powder :: madrasi mirchi powder :: ALU CHURCHURY
+302 :: 1253 :: kashmiri chilly powder :: kashmiri chilly powder :: ALU CHURCHURY
+302 :: 1254 :: oil (ground nut) :: gound nut oil :: ALU CHURCHURY
+302 :: 1255 :: salt :: salt :: ALU CHURCHURY
+302 :: 1257 :: whole wheat flour :: whole wheat flour :: PAV
+302 :: 1258 :: maida :: maida :: PAV
+302 :: 1259 :: bread improver :: bread improver :: PAV
+302 :: 1260 :: calcium :: calcium :: PAV
+302 :: 1261 :: yeast :: yeast :: PAV
+302 :: 1262 :: sugar :: sugar :: PAV
+302 :: 1263 :: ground nut oil :: ground nut oil :: PAV
+302 :: 1264 :: salt :: salt :: PAV
+302 :: 1267 :: tomato -pulvarize w/o jali :: tomato :: RASAM
+302 :: 1268 :: dhania patta :: dhaniya patta :: RASAM
+302 :: 1269 :: kadipatta :: kadi patta :: RASAM
+302 :: 1270 :: tur dal :: tur dal :: RASAM
+302 :: 1271 :: imli :: imli :: RASAM
+302 :: 1272 :: haldi :: haldi :: RASAM
+302 :: 1273 :: hing :: hing :: RASAM
+302 :: 1274 :: MTR rasam masala :: mtr rasam masala :: RASAM
+302 :: 1275 :: salt :: salt :: RASAM
+302 :: 1276 :: gud :: gud :: RASAM
+302 :: 1277 :: ground nut oil :: ground nut oil :: RASAM
+302 :: 1278 :: rai :: rai :: RASAM
+302 :: 1280 :: coconut :: coconut :: EKADASHI CHUTNEY
+EKADASHI CHUTNEY-form not valid
+200 :: 1281 :: pudina :: pudina :: EKADASHI CHUTNEY
+302 :: 1282 :: lemon juice :: lemon :: EKADASHI CHUTNEY
+EKADASHI CHUTNEY-form not valid
+200 :: 1283 :: dhaniya patta :: dhaniya patta :: EKADASHI CHUTNEY
+302 :: 1284 :: adrak paste :: adrak :: EKADASHI CHUTNEY
+302 :: 1285 :: kadipatta :: kadi patta :: EKADASHI CHUTNEY
+302 :: 1286 :: coconut oil :: coconut oil :: EKADASHI CHUTNEY
+302 :: 1287 :: jeera :: jeera :: EKADASHI CHUTNEY
+302 :: 1288 :: akkha madrasi/kashmiri mirch :: akkha madrasi mirchi :: EKADASHI CHUTNEY
+302 :: 1290 :: water :: water :: RAJGIRA  MALT FOR EKADASHI
+302 :: 1291 :: rajgira atta :: rajgira atta :: RAJGIRA  MALT FOR EKADASHI
+302 :: 1292 :: jaggary :: gud :: RAJGIRA  MALT FOR EKADASHI
+302 :: 1294 :: lemon juice :: lemon :: LEMON JUICE
+302 :: 1295 :: water :: water :: LEMON JUICE
+302 :: 1296 :: sugar :: sugar :: LEMON JUICE
+302 :: 1297 :: black salt :: black salt :: LEMON JUICE
+302 :: 1298 :: regular salt :: salt :: LEMON JUICE
+
+
+302 :: 1300 :: ginger paste :: adrak :: GINGER LEMON TEA
+302 :: 1301 :: jaggary :: gud :: GINGER LEMON TEA
+302 :: 1302 :: lemon juice :: lemon :: GINGER LEMON TEA
+302 :: 1303 :: water :: water :: GINGER LEMON TEA
+302 :: 1304 :: black pepper AKKHA :: black pepper :: GINGER LEMON TEA
+302 :: 1305 :: tej patta :: tej patta :: GINGER LEMON TEA
+302 :: 1306 :: DALCHINI :: dalchini :: GINGER LEMON TEA
+302 :: 1308 :: kacca Aam :: kaccha aam :: PANNA
+302 :: 1309 :: pudina :: pudina :: PANNA
+302 :: 1310 :: water :: water :: PANNA
+302 :: 1311 :: sugar :: sugar :: PANNA
+302 :: 1312 :: black salt :: black salt :: PANNA
+302 :: 1314 :: kokam juice :: kokam juice :: KOKAM
+302 :: 1315 :: water :: water :: KOKAM
+302 :: 1316 :: sugar :: sugar :: KOKAM
+302 :: 1317 :: black salt :: black salt :: KOKAM
+302 :: 1318 :: jeera powder :: jeera powder :: KOKAM
+302 :: 1320 :: PAV :: pav :: PAV - HERBAL TEA
+302 :: 1321 :: herbal tea :: herbal tea powder :: Pav Bhaji
+302 :: 1323 :: ROSE WATER :: rose water :: ROSE  LEMON SABJA
+302 :: 1324 :: LEMON :: lemon :: ROSE  LEMON SABJA
+302 :: 1325 :: SABJA :: sabja :: ROSE  LEMON SABJA
+302 :: 1326 :: SUGAR :: sugar :: ROSE  LEMON SABJA
+302 :: 1328 :: tomato :: tomato :: TOMATO  CHUTNEY FOR NOODLES
+302 :: 1329 :: oil :: gound nut oil :: TOMATO  CHUTNEY FOR NOODLES
+302 :: 1330 :: hing :: hing :: TOMATO  CHUTNEY FOR NOODLES
+302 :: 1331 :: kashmiri powder :: kashmiri chilly powder :: TOMATO  CHUTNEY FOR NOODLES
+302 :: 1332 :: sugar :: sugar :: TOMATO  CHUTNEY FOR NOODLES
+302 :: 1333 :: sauf :: sauf :: TOMATO  CHUTNEY FOR NOODLES
+302 :: 1334 :: tejpat :: tej patta :: TOMATO  CHUTNEY FOR NOODLES
+302 :: 1335 :: salt :: salt :: TOMATO  CHUTNEY FOR NOODLES
+302 :: 1336 :: madrsi pw :: madrasi mirchi powder :: TOMATO  CHUTNEY FOR NOODLES
+302 :: 1338 :: dates :: dates :: RED CHUTNEY
+302 :: 1339 :: jaggary :: gud :: RED CHUTNEY
+302 :: 1340 :: imli :: imli :: RED CHUTNEY
+RED CHUTNEY-form not valid
+200 :: 1341 :: chok :: chok :: RED CHUTNEY
+302 :: 1342 :: oil :: gound nut oil :: RED CHUTNEY
+302 :: 1343 :: hing :: hing :: RED CHUTNEY
+RED CHUTNEY-form not valid
+200 :: 1344 :: kashmiri powder :: kashmiri chilly powder :: RED CHUTNEY
+302 :: 1345 :: sugar :: sugar :: RED CHUTNEY
+302 :: 1346 :: sauf :: sauf :: RED CHUTNEY
+302 :: 1347 :: tejpat :: tej patta :: RED CHUTNEY
+302 :: 1348 :: salt :: salt :: RED CHUTNEY
+302 :: 1349 :: madrsi mirchi  pw :: madrasi mirchi powder :: RED CHUTNEY
+RED CHUTNEY-form not valid
+200 :: 1350 :: dhaniya powder :: dhaniya powder :: RED CHUTNEY
+RED CHUTNEY-form not valid
+200 :: 1351 :: jeera powder :: jeera powder :: RED CHUTNEY
+RED CHUTNEY-form not valid
+200 :: 1352 :: garam masala :: garam masala :: RED CHUTNEY
+302 :: 1354 :: LEMON JUICE :: lemon :: FENNEL TEA
+302 :: 1355 :: ADRAK :: adrak :: FENNEL TEA
+302 :: 1356 :: DALCHINI :: dalchini :: FENNEL TEA
+302 :: 1357 :: TEJPATTA :: tej patta :: FENNEL TEA
+302 :: 1358 :: SAUF :: sauf :: FENNEL TEA
+302 :: 1359 :: SUGAR :: sugar :: FENNEL TEA
+302 :: 1361 :: potatoes :: alu :: Pav Bhaji
+302 :: 1362 :: Green Peas :: green peas :: Pav Bhaji
+302 :: 1363 :: Capsicum  :: capsicum :: Pav Bhaji
+302 :: 1364 :: Cauli flower :: cauli flower :: Pav Bhaji
+302 :: 1365 :: Tomato :: tomato :: Pav Bhaji
+302 :: 1366 :: Adrak  :: adrak :: Pav Bhaji
+302 :: 1367 :: Hot Water :: hot water :: Pav Bhaji
+302 :: 1368 :: Green mirchi paste :: hari mirchi :: Pav Bhaji
+302 :: 1369 :: LEMON JUICE :: lemon :: Pav Bhaji
+302 :: 1370 :: dhaniya patta  :: dhaniya patta :: Pav Bhaji
+302 :: 1371 :: Ghee  :: ghee :: Pav Bhaji
+302 :: 1372 :: Kashmiri Mirchi powder :: kashmiri chilly powder :: Pav Bhaji
+302 :: 1373 :: Pav Bhaji Masala :: pav bhaji masala :: Pav Bhaji
+302 :: 1374 :: Salt (Namak) :: salt :: Pav Bhaji
+302 :: 1375 :: Butter :: butter :: Pav Bhaji
+302 :: 1377 :: RICE :: rice :: NITYANAND ITALIAN FRIED RICE
+302 :: 1378 :: Zucchini :: zucchini :: NITYANAND ITALIAN FRIED RICE
+302 :: 1379 :: SWEET CORN ( GRAINS) :: sweet corn :: NITYANAND ITALIAN FRIED RICE
+302 :: 1380 :: FRESH BASIL LEAVES :: basil leaves :: NITYANAND ITALIAN FRIED RICE
+302 :: 1381 :: TOMATO :: tomato :: NITYANAND ITALIAN FRIED RICE
+302 :: 1382 :: GREEN CHILLI ( CHOPPED) :: hari mirchi :: NITYANAND ITALIAN FRIED RICE
+302 :: 1383 :: BLACK PEPPER :: black pepper :: NITYANAND ITALIAN FRIED RICE
+302 :: 1384 :: HING :: hing :: NITYANAND ITALIAN FRIED RICE
+302 :: 1385 :: GROUND NUT OIL :: ground nut oil :: NITYANAND ITALIAN FRIED RICE
+302 :: 1386 :: SOYA SAUCE :: soya sauce :: NITYANAND ITALIAN FRIED RICE
+302 :: 1387 :: SALT :: salt :: NITYANAND ITALIAN FRIED RICE

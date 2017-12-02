@@ -1,0 +1,37 @@
+curl http://127.0.0.1:8000/mixedmeasurements/ \
+ -X POST \
+ -H "Content-Type: application/json" \
+ -H "Accept: text/html,application/json" \
+ -H "X-CSRFToken: the_token_value" \
+ -H "Cookie: csrftoken=the_token_value" \
+ -u your_user_name:your_password \
+ -d '{"title": "first cookie post","code": "print hello world"}' 
+
+
+
+
+ curl --data "name=gaura" http://127.0.0.1:8000//
+
+ from django.test import Client
+ c = Client()
+ response = c.post('/typeofingredient/', {'name': 'gaura'})
+ response.status_code
+ response.content
+
+
+ from django.test import Client
+ c = Client()
+ response = c.post('/mixedmeasurements/', {'name' : 'Liter', 'slug' : 'ltr', 'formtype' : 'ltr', 'volume_Liters' : '', 'mass_KiloGrams' : '1', 'pieces_Numbers' : '' })
+ response.status_code
+
+ from django.test import Client
+ c = Client()
+ response = Client().post('/mixedmeasurements/', {'name' : 'Liter', 'slug' : 'ltr', 'formtype' : 'ltr', 'volume_Liters' : '1', 'mass_KiloGrams' : '', 'pieces_Numbers' : '' }).status_code
+ response.status_code
+
+{'name' = 'Liter', 'slug' = 'ltr', 'formtype' = 'ltr', 'volume_Liters' = '', 'mass_KiloGrams' = '1', 'pieces_Numbers' = '' }
+
+
+Client().post('/mixedmeasurements/', {'name' : 'Liter', 'slug' : 'ltr', 'formtype' : 'ltr', 'volume_Liters' : '1', 'mass_KiloGrams' : '', 'pieces_Numbers' : '' }).status_code
+
+Client().post('/singlemeasurements/', {'name' : 'Liter', 'slug' : 'ltr', 'formtype' : 'ltr', 'quantity' : '1'}).status_code

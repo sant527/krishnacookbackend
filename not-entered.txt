@@ -1,0 +1,98 @@
+200 :: 50 :: Boiled water :: water :: Ekadasi soup
+200 :: 64 :: Flower :: flower :: Alu Flower Gravy (Ekadashi)
+200 :: 78 :: Oil for frying :: gound nut oil :: Alu Flower Gravy (Ekadashi)
+200 :: 90 :: Boiled alu :: alu :: Kakdi singdana salad
+200 :: 122 :: Oil :: gound nut oil :: Pav Bhaji Bhaji
+200 :: 174 :: Coconuts :: coconut :: JP Khichadi
+200 :: 186 :: Chaunce :: chaunce :: Dahi Bhindi
+200 :: Soonth :: soonth :: Dahi Baingan
+200 :: 201 :: Chaunce :: chaunce :: Dahi Baingan
+200 :: 216 :: Chaunce :: chaunce :: Dahi Patol
+200 :: 250 :: Oil :: gound nut oil :: Panchratna Dry
+200 :: 251 :: Hing :: hing :: Panchratna Dry
+200 :: 252 :: Hari mirchi :: hari mirchi :: Panchratna Dry
+200 :: 253 :: Adrak paste :: adrak :: Panchratna Dry
+200 :: 254 :: Jeera powder :: jeera powder :: Panchratna Dry
+200 :: 255 :: Dhania powder :: dhaniya powder :: Panchratna Dry
+200 :: 256 :: Red chilli powder :: madrasi mirchi powder :: Panchratna Dry
+200 :: 257 :: Haldi :: haldi :: Panchratna Dry
+200 :: 258 :: Kashmiri powder :: kashmiri chilly powder :: Panchratna Dry
+200 :: 259 :: Salt :: salt :: Panchratna Dry
+200 :: 260 :: Black salt :: black salt :: Panchratna Dry
+200 :: 261 :: Everest chat masala :: everest chat masala :: Panchratna Dry
+200 :: 262 :: Lemon juice :: lemon :: Panchratna Dry
+200 :: 306 :: Hari mirchi :: hari mirchi :: Patol White Gravy
+200 :: 333 :: Brokoli  :: broccoli :: Brokoli Sautee
+200 :: 343 :: Karela :: karela :: Kerela Round
+200 :: 354 :: Red sak :: red sak :: Red Sak Badi
+200 :: 444 :: Ghee  :: ghee :: Matar Ki Dal
+200 :: 500 :: Tadka :: tadka :: Dahi  Rice
+200 :: 527 :: chaunce :: chaunce :: SAMBAR GP
+200 :: 545 :: Pudina :: pudina :: Moong Dal Dossa
+200 :: 549 :: Batter yield :: batter yield :: Moong Dal Dossa
+200 :: 560 :: Chaunce :: chaunce :: Tomato Chutni
+200 :: 561 :: Til oil :: til oil :: Tomato Chutni
+200 :: 621 :: VEGETABLE STOCK :: VEGETABLE STOCK :: Minestrone soup
+200 :: 626 :: Gajar :: gajar :: Minestrone soup
+200 :: 632 :: Chopped Celery Stick :: celery stick :: Minestrone soup
+200 :: 650 :: Zucchini :: zucchini :: Sauted Vegetables
+200 :: 665 :: oil for frying :: gound nut oil :: Sauted Vegetables
+200 :: 695 :: Chaunce :: chaunce :: Kothimbit wadi
+200 :: 699 :: Dhania Patta (Coriander Leaves) :: dhaniya patta :: Kothimbit wadi
+200 :: 704 :: Shahi Jeera :: shahi jeera :: Biryani Dum Layer
+200 :: 705 :: Starfal :: starfal :: Biryani Dum Layer
+200 :: 706 :: Dagad Ful :: dagad ful :: Biryani Dum Layer
+200 :: 707 :: Dalchini :: dalchini :: Biryani Dum Layer
+200 :: 708 :: Lavang :: lavang :: Biryani Dum Layer
+200 :: 709 :: Kalimiri :: kalimiri :: Biryani Dum Layer
+200 :: 710 :: Tej Patta :: tej patta :: Biryani Dum Layer
+200 :: 711 :: Masala Elaichi :: elaichi :: Biryani Dum Layer
+200 :: 712 :: Green Elaichi :: green elaichi :: Biryani Dum Layer
+200 :: 713 :: Jaiwantri :: jaiwantri :: Biryani Dum Layer
+200 :: 714 :: Jeera :: jeera :: Biryani Dum Layer
+200 :: 715 :: Kasuri Methi :: kasuri methi :: Biryani Dum Layer
+200 :: 716 :: Kasmiri Mirchi :: kashmiri chilly powder :: Biryani Dum Layer
+200 :: 718 :: Dhaniya Powder :: dhaniya powder :: Biryani Dum Layer
+200 :: 719 :: Haldi Powder :: haldi :: Biryani Dum Layer
+200 :: 720 :: Hing Powder :: hing :: Biryani Dum Layer
+200 :: 721 :: Kashmiri Mirchi Powder :: kashmiri chilly powder :: Biryani Dum Layer
+200 :: 722 :: Badshah Rajwadi Garam Masala :: badshah rajwadi garam masala :: Biryani Dum Layer
+200 :: 723 :: Everest Chole Masala :: everest chole masala :: Biryani Dum Layer
+200 :: 724 :: Everest Shahi Briyani Masala :: everest shahi briyani masala :: Biryani Dum Layer
+200 :: 725 :: Kapol Chat Masala :: kapol chat masala :: Biryani Dum Layer
+200 :: 726 :: Black Salt Powder :: black salt :: Biryani Dum Layer
+200 :: 730 :: White Teel :: white til :: Biryani Dum Layer
+200 :: 731 :: Khas Khas :: khas khas :: Biryani Dum Layer
+200 :: 742 :: Kadipatta :: kadi patta :: Biryani Dum Layer
+200 :: 758 :: Mawa :: mawa :: Biryani Dum Layer
+200 :: 759 :: Amul Butter :: amul butter :: Biryani Dum Layer
+200 :: 760 :: Amul Fresh Cream :: amul fresh cream :: Biryani Dum Layer
+200 :: 762 :: Curd :: dahi :: Biryani Dum Layer
+200 :: 880 :: brown sugar :: brown sugar :: Noodles
+200 :: 896 :: kashmiri mirchi powder :: kashmiri chilly powder :: Usal Pav
+200 :: 1038 :: salt :: salt :: Sushila Bhel
+200 :: 1110 :: sugar :: sugar :: DHOKLA
+200 :: 1113 :: dhaniya patta :: dhaniya patta :: green chutney -Dhokla AND MUMBAI  BHEL
+200 :: 1114 :: dalia :: daliya :: green chutney -Dhokla AND MUMBAI  BHEL
+200 :: 1115 :: pudina leaves :: pudina leaves :: green chutney -Dhokla AND MUMBAI  BHEL
+200 :: 1124 :: coconut :: coconut :: PATLA POHA
+200 :: 1128 :: patala poha :: patala poha :: PATLA POHA
+200 :: 1129 :: sugar :: sugar :: PATLA POHA
+200 :: 1181 :: rice :: rice :: Gauranga fried  Rice
+200 :: 1182 :: haldi :: haldi :: Gauranga fried  Rice
+200 :: 1183 :: rai :: rai :: Gauranga fried  Rice
+200 :: 1184 :: jeera :: jeera :: Gauranga fried  Rice
+200 :: 1185 :: kashmiri chilly PWD :: kashmiri chilly powder :: Gauranga fried  Rice
+200 :: 1186 :: hing :: hing :: Gauranga fried  Rice
+200 :: 1187 :: salt :: salt :: Gauranga fried  Rice
+200 :: everest pulav masala :: everest pulav masala :: EKADASHI UPMA
+200 :: 1281 :: pudina :: pudina :: EKADASHI CHUTNEY
+200 :: 1283 :: dhaniya patta :: dhaniya patta :: EKADASHI CHUTNEY
+200 :: 1341 :: chok :: chok :: RED CHUTNEY
+200 :: 1344 :: kashmiri powder :: kashmiri chilly powder :: RED CHUTNEY
+200 :: 1350 :: dhaniya powder :: dhaniya powder :: RED CHUTNEY
+200 :: 1351 :: jeera powder :: jeera powder :: RED CHUTNEY
+200 :: 1352 :: garam masala :: garam masala :: RED CHUTNEY
+
+
+a = Client().post('/recipes/red-chutney/detail/', {'recipe' : '65', 'ingredient' : '80', 'name' : 'garam masala', 'mass_unit' : '', 'mass_quantity' : '0', 'volume_unit' : '', 'volume_quantity' : '0', 'pieces_unit' : '', 'pieces_quantity' : '0', 'cooking_notes' : ''}).status_code; print('%s :: %s :: %s :: %s :: %s' %(a,1352,'garam masala','garam masala','RED CHUTNEY'))
